@@ -1,0 +1,43 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: two 
+  folders:
+
+  - title: RPKI Unreachable IPv4 Networks
+    output: web
+    folderitems:
+    - title: by ASN
+      url: unreachable_as-v4.html 
+      output: web
+    - title: by Country
+      url: unreachable_countries-v4.html 
+      output: web
+    - title: by RIR
+      url: unreachable_rir-v4.html
+      output: web
+    - title: by ROA
+      url: unreachable_roas-v4.html 
+      output: web
+    - title: all Prefixes
+      url: unreachable_prefixes-v4.html 
+      output: web
+  - title: RPKI Unreachable IPv6 Networks
+    output: web
+    folderitems:
+    - title: by ASN
+      url: unreachable_as-v6.html 
+      output: web
+    - title: by Country
+      url: unreachable_countries-v6.html 
+      output: web
+    - title: by RIR
+      url: unreachable_rir-v6.html
+      output: web
+    - title: by ROA
+      url: unreachable_roas-v6.html 
+      output: web
+    - title: all Prefixes
+      url: unreachable_prefixes-v6.html 
+      output: web

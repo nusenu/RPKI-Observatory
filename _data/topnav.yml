@@ -1,0 +1,28 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Unreachable Networks
+      url: /unreachable-networks.html
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: External Resources
+      folderitems:
+        - title: RPKI Monitor (NIST)
+          external_url: https://rpki-monitor.antd.nist.gov/
+        - title: RPKI World Map (RIPE)
+          external_url: https://lirportal.ripe.net/certification/content/static/statistics/world-roas.html
+        - title: Certification Stats (RIPE)
+          external_url: https://certification-stats.ripe.net/
+        - title: Measurements on used RPKI TALs (Ben Cox)
+          external_url: https://blog.benjojo.co.uk/post/are-bgps-security-features-working-yet-rpki
+        - title: RPKI Validator (RIPE)
+          external_url: https://rpki-validator.ripe.net
+        - title: RPKI Repository Browser (FU Berlin)
+          external_url: https://rpki-browser2.realmv6.org/
+        - title: MANRS (ISOC)
+          external_url: https://www.manrs.org/
