@@ -1,0 +1,17 @@
+---
+title: Unreachable Prefixes in AS49594 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS49594-v4.html
+---
+
+Data as of 2018-10-17 14:35:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                   | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [46.162.160.0/20](https://stat.ripe.net/46.162.160.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS49594&prefix=46.162.160.0/20) | complete   | AS39180         |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                 16 |
+
+<div class="datatable-end"></div>
