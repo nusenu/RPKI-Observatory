@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS45102-v4.html
 ---
 
-Data as of 2018-10-17 14:35:00 UTC
+Data as of 2018-10-19 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,6 +14,5 @@ Data as of 2018-10-17 14:35:00 UTC
 |:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
 | [8.208.0.0/18](https://stat.ripe.net/8.208.0.0/18)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS45102&prefix=8.208.0.0/18)    | complete   | AS45102         |          12 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                 64 |
 | [149.129.64.0/18](https://stat.ripe.net/149.129.64.0/18) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS45102&prefix=149.129.64.0/18) | complete   | AS45102         |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                 64 |
-| [149.129.32.0/19](https://stat.ripe.net/149.129.32.0/19) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS45102&prefix=149.129.32.0/19) | complete   | AS45102         |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                 32 |
 
 <div class="datatable-end"></div>

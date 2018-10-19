@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS46407-v6.html
 ---
 
-Data as of 2018-10-17 14:35:00 UTC
+Data as of 2018-10-19 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,5 +14,6 @@ Data as of 2018-10-17 14:35:00 UTC
 |:---------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------|-------------------:|
 | [2001:19f0:a06::/48](https://stat.ripe.net/2001:19f0:a06::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46407&prefix=2001:19f0:a06::/48) | complete   | AS20473         |          48 | [ARIN](unreachable_ARIN-v6.html) |                  1 |
 | [2001:19f0:a07::/48](https://stat.ripe.net/2001:19f0:a07::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46407&prefix=2001:19f0:a07::/48) | complete   | AS20473         |          48 | [ARIN](unreachable_ARIN-v6.html) |                  1 |
+| [2001:19f0:a08::/48](https://stat.ripe.net/2001:19f0:a08::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46407&prefix=2001:19f0:a08::/48) | complete   | AS20473         |          48 | [ARIN](unreachable_ARIN-v6.html) |                  1 |
 
 <div class="datatable-end"></div>

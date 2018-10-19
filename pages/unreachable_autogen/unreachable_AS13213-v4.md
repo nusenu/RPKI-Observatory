@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS13213-v4.html
 ---
 
-Data as of 2018-10-17 14:35:00 UTC
+Data as of 2018-10-19 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,6 +14,6 @@ Data as of 2018-10-17 14:35:00 UTC
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
 | [181.215.232.0/24](https://stat.ripe.net/181.215.232.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS13213&prefix=181.215.232.0/24) | complete   | AS133229        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [181.215.244.0/24](https://stat.ripe.net/181.215.244.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS13213&prefix=181.215.244.0/24) | complete   | AS133229        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
-| [191.101.17.0/24](https://stat.ripe.net/191.101.17.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS13213&prefix=191.101.17.0/24)  | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [191.101.17.0/24](https://stat.ripe.net/191.101.17.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS13213&prefix=191.101.17.0/24)  | complete   | AS395619        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
