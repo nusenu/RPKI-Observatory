@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS61317-v4.html
 ---
 
-Data as of 2018-10-19 02:35:00 UTC
+Data as of 2018-10-22 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -15,10 +15,10 @@ Data as of 2018-10-19 02:35:00 UTC
 | [179.61.144.0/20](https://stat.ripe.net/179.61.144.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.144.0/20)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
 | [179.61.160.0/20](https://stat.ripe.net/179.61.160.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.160.0/20)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
 | [179.61.176.0/20](https://stat.ripe.net/179.61.176.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.176.0/20)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
-| [191.101.64.0/20](https://stat.ripe.net/191.101.64.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.64.0/20)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
-| [191.101.80.0/20](https://stat.ripe.net/191.101.80.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.80.0/20)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
-| [191.101.96.0/20](https://stat.ripe.net/191.101.96.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.96.0/20)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
-| [191.101.112.0/20](https://stat.ripe.net/191.101.112.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.112.0/20)   | partial    | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [191.101.64.0/20](https://stat.ripe.net/191.101.64.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.64.0/20)    | complete   | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [191.101.80.0/20](https://stat.ripe.net/191.101.80.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.80.0/20)    | complete   | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [191.101.96.0/20](https://stat.ripe.net/191.101.96.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.96.0/20)    | complete   | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [191.101.112.0/20](https://stat.ripe.net/191.101.112.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.112.0/20)   | partial    | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
 | [179.61.128.0/20](https://stat.ripe.net/179.61.128.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.128.0/20)    | partial    | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
 | [191.96.240.0/22](https://stat.ripe.net/191.96.240.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.96.240.0/22)    | complete   | AS60458         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  4 |
 | [191.101.164.0/23](https://stat.ripe.net/191.101.164.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=191.101.164.0/23)   | complete   | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  2 |
@@ -45,7 +45,7 @@ Data as of 2018-10-19 02:35:00 UTC
 | [185.142.24.0/24](https://stat.ripe.net/185.142.24.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=185.142.24.0/24) | complete   | AS61317         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [181.215.245.0/24](https://stat.ripe.net/181.215.245.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=181.215.245.0/24)   | complete   | AS133229        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [181.215.239.0/24](https://stat.ripe.net/181.215.239.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=181.215.239.0/24)   | complete   | AS133229        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
-| [179.61.238.0/24](https://stat.ripe.net/179.61.238.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.238.0/24)    | complete   | AS61440         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
-| [179.61.202.0/24](https://stat.ripe.net/179.61.202.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.202.0/24)    | complete   | AS61440         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [179.61.238.0/24](https://stat.ripe.net/179.61.238.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.238.0/24)    | complete   | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [179.61.202.0/24](https://stat.ripe.net/179.61.202.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61317&prefix=179.61.202.0/24)    | complete   | AS37692         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

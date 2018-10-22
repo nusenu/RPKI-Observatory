@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_in-v4.html
 ---
 
-Data as of 2018-10-19 02:35:00 UTC
+Data as of 2018-10-22 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                         |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:---------------------------------------------|-----------:|-------------------:|
-|   0 | [AS45774](unreachable_AS45774-v4.html)   | SPIDIGO-AS-IN SPiDiGO                        |         40 |                 40 |
+|   0 | [AS45774](unreachable_AS45774-v4.html)   | SPIDIGO-AS-IN SPiDiGO                        |         38 |                 38 |
 |   1 | [AS55862](unreachable_AS55862-v4.html)   | WNET-IN Wan &amp; Lan Internet Pvt Ltd       |         20 |                 20 |
 |   2 | [AS17803](unreachable_AS17803-v4.html)   | BSES-AS-AP BSES TeleCom Limited              |          8 |                 13 |
 |   3 | [AS137648](unreachable_AS137648-v4.html) | RHMCOMM-AS-IN Rhombus Communications Pvt Ltd |          2 |                  2 |
