@@ -1,17 +1,17 @@
 ---
-title: Unreachable Prefixes in AS49594 (IPv4)
+title: Unreachable Prefixes in AS42260 (IPv4)
 datatable: true
 sidebar: unreachable_sidebar
-permalink: unreachable_AS49594-v4.html
+permalink: unreachable_AS42260-v4.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [46.162.160.0/20](https://stat.ripe.net/46.162.160.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS49594&prefix=46.162.160.0/20) | complete   | AS39180         |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                 16 |
+| [45.227.254.0/24](https://stat.ripe.net/45.227.254.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42260&prefix=45.227.254.0/24) | complete   | AS395978        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

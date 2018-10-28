@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_tw-v4.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                            |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS131627](unreachable_AS131627-v4.html) | PEICITY-AS-TW Peicity Digital Cable Television. |          1 |                  1 |
+|   0 | [AS131597](unreachable_AS131597-v4.html) | NCDTV-TW New Changhua Digital Cable TV CO       |          1 |                  4 |
+|   1 | [AS131627](unreachable_AS131627-v4.html) | PEICITY-AS-TW Peicity Digital Cable Television. |          1 |                  1 |
 
 <div class="datatable-end"></div>

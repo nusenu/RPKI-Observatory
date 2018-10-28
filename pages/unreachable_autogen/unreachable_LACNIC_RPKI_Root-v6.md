@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_LACNIC_RPKI_Root-v6.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -30,10 +30,9 @@ Data as of 2018-10-22 02:35:00 UTC
 |  15 | [2800:1e0:b01::/48](https://stat.ripe.net/2800:1e0:b01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:b01::/48) | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
 |  16 | [2800:1e0:c01::/48](https://stat.ripe.net/2800:1e0:c01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:c01::/48) | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
 |  17 | [2801:0:210::/48](https://stat.ripe.net/2801:0:210::/48)         | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS19429&prefix=2801:0:210::/48)     | complete   | [AS19429](unreachable_AS19429-v6.html)   | ETB - Colombia                                          |                  1 |
-|  18 | [2801:0:4c0::/48](https://stat.ripe.net/2801:0:4c0::/48)         | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS266736&prefix=2801:0:4c0::/48)    | complete   | [AS266736](unreachable_AS266736-v6.html) | Universidad Tecnologica de Pereira                      |                  1 |
-|  19 | [2801:12:7000::/48](https://stat.ripe.net/2801:12:7000::/48)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS27650&prefix=2801:12:7000::/48)   | complete   | [AS27650](unreachable_AS27650-v6.html)   | EMTEL S.A. E.S.P.                                       |                  1 |
-|  20 | [2801:170::/48](https://stat.ripe.net/2801:170::/48)             | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264648&prefix=2801:170::/48)      | complete   | [AS264648](unreachable_AS264648-v6.html) | Fondo Rotatorio del Ministerio de Relaciones Exteriores |                  1 |
-|  21 | [2803:b4c0:3::/48](https://stat.ripe.net/2803:b4c0:3::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS27919&prefix=2803:b4c0:3::/48)    | complete   | [AS27919](unreachable_AS27919-v6.html)   | IXP ECUADOR                                             |                  1 |
-|  22 | [2803:db40::/48](https://stat.ripe.net/2803:db40::/48)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS64100&prefix=2803:db40::/48)   | complete   | [AS64100](unreachable_AS64100-v6.html)   | PRIVATEL S.R.L.                                         |                  1 |
+|  18 | [2801:12:7000::/48](https://stat.ripe.net/2801:12:7000::/48)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS27650&prefix=2801:12:7000::/48)   | complete   | [AS27650](unreachable_AS27650-v6.html)   | EMTEL S.A. E.S.P.                                       |                  1 |
+|  19 | [2801:170::/48](https://stat.ripe.net/2801:170::/48)             | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264648&prefix=2801:170::/48)      | complete   | [AS264648](unreachable_AS264648-v6.html) | Fondo Rotatorio del Ministerio de Relaciones Exteriores |                  1 |
+|  20 | [2803:b4c0:3::/48](https://stat.ripe.net/2803:b4c0:3::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS27919&prefix=2803:b4c0:3::/48)    | complete   | [AS27919](unreachable_AS27919-v6.html)   | IXP ECUADOR                                             |                  1 |
+|  21 | [2803:db40::/48](https://stat.ripe.net/2803:db40::/48)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS64100&prefix=2803:db40::/48)   | complete   | [AS64100](unreachable_AS64100-v6.html)   | PRIVATEL S.R.L.                                         |                  1 |
 
 <div class="datatable-end"></div>

@@ -5,13 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_bg-v4.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS39246](unreachable_AS39246-v4.html) | LIULINNET - Lulin-Net  |          4 |                  4 |
+|   # | ASN                                      | (announcing) AS name      |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:--------------------------|-----------:|-------------------:|
+|   0 | [AS39246](unreachable_AS39246-v4.html)   | LIULINNET - Lulin-Net     |          4 |                  4 |
+|   1 | [AS25212](unreachable_AS25212-v4.html)   | NOBELUS - Nobelus EOOD    |          1 |                  4 |
+|   2 | [AS202015](unreachable_AS202015-v4.html) | HZ-US-AS - HZ Hosting Ltd |          2 |                  2 |
 
 <div class="datatable-end"></div>

@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS43212-v4.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [185.11.68.0/22](https://stat.ripe.net/185.11.68.0/22)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43212&prefix=185.11.68.0/22)   | complete   | AS57357         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [185.11.68.0/22](https://stat.ripe.net/185.11.68.0/22)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43212&prefix=185.11.68.0/22)   | complete   | AS64489         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [185.162.40.0/22](https://stat.ripe.net/185.162.40.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43212&prefix=185.162.40.0/22)  | complete   | AS64489         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [185.59.112.0/23](https://stat.ripe.net/185.59.112.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43212&prefix=185.59.112.0/23)  | complete   | AS64489         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [188.209.152.0/23](https://stat.ripe.net/188.209.152.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43212&prefix=188.209.152.0/23) | complete   | AS64489         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |

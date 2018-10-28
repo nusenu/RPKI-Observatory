@@ -5,15 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_id-v4.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                              |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:--------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS7713](unreachable_AS7713-v4.html)   | TELKOMNET-AS-AP PT Telekomunikasi Indonesia       |          4 |                  8 |
-|   1 | [AS58396](unreachable_AS58396-v4.html) | DETELNETWORKS-AS-ID PT. DEWATA TELEMATIKA         |          3 |                  5 |
-|   2 | [AS23947](unreachable_AS23947-v4.html) | MORATELINDONAP-AS-ID PT.Mora Telematika Indonesia |          3 |                  3 |
+|   0 | [AS58396](unreachable_AS58396-v4.html) | DETELNETWORKS-AS-ID PT. DEWATA TELEMATIKA         |          3 |                  5 |
+|   1 | [AS23947](unreachable_AS23947-v4.html) | MORATELINDONAP-AS-ID PT.Mora Telematika Indonesia |          3 |                  3 |
 
 <div class="datatable-end"></div>

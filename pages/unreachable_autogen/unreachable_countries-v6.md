@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_countries-v6.html
 ---
 
-Data as of 2018-10-22 02:35:00 UTC
+Data as of 2018-10-28 14:35:00 UTC
 
 <div class="datatable-begin"></div>
 
 |   # | Country                      |   affected ASNs |   affected prefixes |   unreachable /48s |
 |----:|:-----------------------------|----------------:|--------------------:|-------------------:|
-|   0 | [VE](unreachable_ve-v6.html) |               4 |                  10 |             655360 |
-|   1 | [NL](unreachable_nl-v6.html) |               1 |                   1 |             524288 |
+|   0 | [NL](unreachable_nl-v6.html) |               2 |                   2 |             655360 |
+|   1 | [VE](unreachable_ve-v6.html) |               4 |                  10 |             655360 |
 |   2 | [IR](unreachable_ir-v6.html) |               1 |                   1 |             524288 |
 |   3 | [AU](unreachable_au-v6.html) |               4 |                   4 |             139520 |
 |   4 | [GB](unreachable_gb-v6.html) |               3 |                   4 |             131074 |
@@ -26,8 +26,8 @@ Data as of 2018-10-22 02:35:00 UTC
 |  12 | [CN](unreachable_cn-v6.html) |               1 |                   1 |               4096 |
 |  13 | [AR](unreachable_ar-v6.html) |               2 |                   2 |                 65 |
 |  14 | [DE](unreachable_de-v6.html) |               1 |                  15 |                 15 |
-|  15 | [CO](unreachable_co-v6.html) |               5 |                   7 |                  7 |
-|  16 | [RU](unreachable_ru-v6.html) |               3 |                   4 |                  4 |
+|  15 | [CO](unreachable_co-v6.html) |               4 |                   6 |                  6 |
+|  16 | [RU](unreachable_ru-v6.html) |               4 |                   5 |                  5 |
 |  17 | [IN](unreachable_in-v6.html) |               1 |                   1 |                  1 |
 |  18 | [EC](unreachable_ec-v6.html) |               1 |                   1 |                  1 |
 |  19 | [DK](unreachable_dk-v6.html) |               1 |                   1 |                  1 |
