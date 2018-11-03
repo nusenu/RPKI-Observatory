@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS17639-v4.html
 ---
 
-Data as of 2018-10-28 14:35:00 UTC
+Data as of 2018-11-03 10:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
+| [120.29.64.0/23](https://stat.ripe.net/120.29.64.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.64.0/23)  | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [120.29.68.0/23](https://stat.ripe.net/120.29.68.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.68.0/23)  | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [120.29.70.0/23](https://stat.ripe.net/120.29.70.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.70.0/23)  | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [120.29.108.0/23](https://stat.ripe.net/120.29.108.0/23) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.108.0/23) | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |

@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS55821-v4.html
 ---
 
-Data as of 2018-10-28 14:35:00 UTC
+Data as of 2018-11-03 10:30:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -16,6 +16,5 @@ Data as of 2018-10-28 14:35:00 UTC
 | [209.141.6.0/23](https://stat.ripe.net/209.141.6.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55821&prefix=209.141.6.0/23)  | complete   | AS55821         |          20 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [209.141.8.0/23](https://stat.ripe.net/209.141.8.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55821&prefix=209.141.8.0/23)  | complete   | AS55821         |          20 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [209.141.10.0/24](https://stat.ripe.net/209.141.10.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55821&prefix=209.141.10.0/24) | complete   | AS55821         |          20 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
-| [209.141.11.0/24](https://stat.ripe.net/209.141.11.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55821&prefix=209.141.11.0/24) | complete   | AS55821         |          20 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
