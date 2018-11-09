@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_pk-v4.html
 ---
 
-Data as of 2018-11-03 10:30:00 UTC
+Data as of 2018-11-09 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,8 +13,9 @@ Data as of 2018-11-03 10:30:00 UTC
 |   # | ASN                                      | (announcing) AS name                          |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:----------------------------------------------|-----------:|-------------------:|
 |   0 | [AS45773](unreachable_AS45773-v4.html)   | HECPERN-AS-PK PERN AS Content Servie Provider |         32 |                 32 |
-|   1 | [AS136525](unreachable_AS136525-v4.html) | WANCOMPVTLTD-AS-AP Wancom Pvt Ltd.            |          8 |                  8 |
-|   2 | [AS17539](unreachable_AS17539-v4.html)   | ASN-NCKHI-AP NetSol Connect                   |          8 |                  8 |
-|   3 | [AS38713](unreachable_AS38713-v4.html)   | CONNECT2B-AS-PK Broadband ISP                 |          3 |                  3 |
+|   1 | [AS38547](unreachable_AS38547-v4.html)   | WITRIBE-AS-AP WITRIBE PAKISTAN LIMITED        |         17 |                 17 |
+|   2 | [AS136525](unreachable_AS136525-v4.html) | WANCOMPVTLTD-AS-AP Wancom Pvt Ltd.            |          8 |                  8 |
+|   3 | [AS17539](unreachable_AS17539-v4.html)   | ASN-NCKHI-AP NetSol Connect                   |          8 |                  8 |
+|   4 | [AS38713](unreachable_AS38713-v4.html)   | CONNECT2B-AS-PK Broadband ISP                 |          2 |                  2 |
 
 <div class="datatable-end"></div>

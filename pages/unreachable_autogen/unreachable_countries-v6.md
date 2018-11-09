@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_countries-v6.html
 ---
 
-Data as of 2018-11-03 10:30:00 UTC
+Data as of 2018-11-09 02:35:00 UTC
 
 <div class="datatable-begin"></div>
 
@@ -19,16 +19,17 @@ Data as of 2018-11-03 10:30:00 UTC
 |   5 | [SE](unreachable_se-v6.html) |               2 |                   2 |              65537 |
 |   6 | [SG](unreachable_sg-v6.html) |               1 |                   1 |              65536 |
 |   7 | [IS](unreachable_is-v6.html) |               1 |                   1 |              65536 |
-|   8 | [US](unreachable_us-v6.html) |              12 |                  21 |               4116 |
+|   8 | [US](unreachable_us-v6.html) |              13 |                  22 |               4117 |
 |   9 | [CN](unreachable_cn-v6.html) |               1 |                   1 |               4096 |
-|  10 | [AR](unreachable_ar-v6.html) |               2 |                   2 |                 65 |
-|  11 | [DE](unreachable_de-v6.html) |               2 |                  16 |                 31 |
-|  12 | [CO](unreachable_co-v6.html) |               4 |                   6 |                  6 |
-|  13 | [RU](unreachable_ru-v6.html) |               4 |                   5 |                  5 |
-|  14 | [DK](unreachable_dk-v6.html) |               1 |                   1 |                  1 |
-|  15 | [CA](unreachable_ca-v6.html) |               1 |                   1 |                  1 |
-|  16 | [EU](unreachable_eu-v6.html) |               1 |                   1 |                  1 |
-|  17 | [EC](unreachable_ec-v6.html) |               1 |                   1 |                  1 |
-|  18 | [IN](unreachable_in-v6.html) |               1 |                   1 |                  1 |
+|  10 | [AR](unreachable_ar-v6.html) |               3 |                   4 |                 67 |
+|  11 | [DE](unreachable_de-v6.html) |               2 |                  15 |                 30 |
+|  12 | [RU](unreachable_ru-v6.html) |               4 |                   5 |                  5 |
+|  13 | [CO](unreachable_co-v6.html) |               3 |                   5 |                  5 |
+|  14 | [TR](unreachable_tr-v6.html) |               1 |                   3 |                  3 |
+|  15 | [EC](unreachable_ec-v6.html) |               1 |                   1 |                  1 |
+|  16 | [IN](unreachable_in-v6.html) |               1 |                   1 |                  1 |
+|  17 | [DK](unreachable_dk-v6.html) |               1 |                   1 |                  1 |
+|  18 | [CA](unreachable_ca-v6.html) |               1 |                   1 |                  1 |
+|  19 | [EU](unreachable_eu-v6.html) |               1 |                   1 |                  1 |
 
 <div class="datatable-end"></div>

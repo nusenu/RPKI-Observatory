@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_sg-v4.html
 ---
 
-Data as of 2018-11-03 10:30:00 UTC
+Data as of 2018-11-09 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,6 +14,6 @@ Data as of 2018-11-03 10:30:00 UTC
 |----:|:-----------------------------------------|:-------------------------------------------------------------|-----------:|-------------------:|
 |   0 | [AS134963](unreachable_AS134963-v4.html) | ASEPL-AS-AP Alibaba.com Singapore E-Commerce Private Limited |         27 |                 48 |
 |   1 | [AS38001](unreachable_AS38001-v4.html)   | NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd               |          3 |                  3 |
-|   2 | [AS133535](unreachable_AS133535-v4.html) | ALAGASNETWORK-AS-AP PRIMABANANEN PTE. LTD.                   |          1 |                  1 |
+|   2 | [AS133535](unreachable_AS133535-v4.html) | ALAGASNETWORK-AS-AP PRIMABANANEN PTE. LTD.                   |          2 |                  2 |
 
 <div class="datatable-end"></div>

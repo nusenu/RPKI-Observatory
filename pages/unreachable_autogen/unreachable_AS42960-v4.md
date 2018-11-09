@@ -1,17 +1,17 @@
 ---
-title: Unreachable Prefixes in AS34744 (IPv4)
+title: Unreachable Prefixes in AS42960 (IPv4)
 datatable: true
 sidebar: unreachable_sidebar
-permalink: unreachable_AS34744-v4.html
+permalink: unreachable_AS42960-v4.html
 ---
 
-Data as of 2018-11-03 10:30:00 UTC
+Data as of 2018-11-09 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                 | Reason                                                                                                | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [91.239.12.0/24](https://stat.ripe.net/91.239.12.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS34744&prefix=91.239.12.0/24) | complete   | AS5541          |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.81.40.0/22](https://stat.ripe.net/185.81.40.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42960&prefix=185.81.40.0/22) | partial    | AS44543         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 
 <div class="datatable-end"></div>

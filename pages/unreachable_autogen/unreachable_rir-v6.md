@@ -5,16 +5,16 @@ sidebar: unreachable_sidebar
 permalink: unreachable_rir-v6.html
 ---
 
-Data as of 2018-11-03 10:30:00 UTC
+Data as of 2018-11-09 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Anchor                                         |   affected countries |   affected ASNs |   affected prefixes |   unreachable /48s |
 |:-----------------------------------------------|---------------------:|----------------:|--------------------:|-------------------:|
-| [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                    6 |              13 |                  22 |             720985 |
+| [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                    6 |              14 |                  24 |             720987 |
 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                    6 |              11 |                  12 |             344323 |
-| [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                    8 |              15 |                  31 |             262186 |
+| [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                    9 |              16 |                  33 |             262188 |
 | [ARIN](unreachable_ARIN-v6.html)               |                    2 |               8 |                  17 |                 17 |
 
 <div class="datatable-end"></div>
