@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_pa-v6.html
 ---
 
-Data as of 2018-11-09 02:35:00 UTC
+Data as of 2018-11-10 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /48s |
 |----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS18809](unreachable_AS18809-v6.html) | Cable Onda             |          2 |              65552 |
+|   0 | [AS18809](unreachable_AS18809-v6.html) | Cable Onda             |          1 |              65536 |
 
 <div class="datatable-end"></div>

@@ -5,14 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_de-v6.html
 ---
 
-Data as of 2018-11-09 02:35:00 UTC
+Data as of 2018-11-10 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                                  |   prefixes |   unreachable /48s |
 |----:|:-----------------------------------------|:------------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS207036](unreachable_AS207036-v6.html) | ARIELANTIGUA - Ariel Antigua                          |          1 |                 16 |
-|   1 | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd |         14 |                 14 |
+|   0 | [AS8767](unreachable_AS8767-v6.html)     | MNET-AS - M-net Telekommunikations GmbH               |          1 |              65536 |
+|   1 | [AS207036](unreachable_AS207036-v6.html) | ARIELANTIGUA - Ariel Antigua                          |          1 |                 16 |
+|   2 | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd |         14 |                 14 |
 
 <div class="datatable-end"></div>

@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_de-v4.html
 ---
 
-Data as of 2018-11-09 02:35:00 UTC
+Data as of 2018-11-10 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,7 +13,7 @@ Data as of 2018-11-09 02:35:00 UTC
 |   # | ASN                                      | (announcing) AS name                                  |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:------------------------------------------------------|-----------:|-------------------:|
 |   0 | [AS33891](unreachable_AS33891-v4.html)   | CORE-BACKBONE - Core-Backbone GmbH                    |          1 |                  4 |
-|   1 | [AS42962](unreachable_AS42962-v4.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd |          2 |                  4 |
+|   1 | [AS42962](unreachable_AS42962-v4.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd |          2 |                  3 |
 |   2 | [AS44066](unreachable_AS44066-v4.html)   | DE-FIRSTCOLO - First Colo GmbH                        |          2 |                  2 |
 |   3 | [AS42260](unreachable_AS42260-v4.html)   | PLANETGLOBALAS - Planet Host LLC                      |          1 |                  1 |
 |   4 | [AS31400](unreachable_AS31400-v4.html)   | ACCELERATED-IT - Accelerated IT Services GmbH         |          1 |                  1 |
