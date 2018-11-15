@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_hk-v4.html
 ---
 
-Data as of 2018-11-10 14:35:00 UTC
+Data as of 2018-11-15 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -16,7 +16,7 @@ Data as of 2018-11-10 14:35:00 UTC
 |   1 | [AS133752](unreachable_AS133752-v4.html) | LEASEWEB-APAC-HKG-10 Leaseweb Asia Pacific pte. ltd. |          4 |                  4 |
 |   2 | [AS38478](unreachable_AS38478-v4.html)   | SUNNYVISION-AS-AP SunnyVision Limited                |          4 |                  4 |
 |   3 | [AS133380](unreachable_AS133380-v4.html) | PACHOST-AS Pacificnet Hosting Ltd                    |          1 |                  2 |
-|   4 | [AS56082](unreachable_AS56082-v4.html)   | ONE-NET-HK INTERNET-SOLUTION-                        |          1 |                  1 |
-|   5 | [AS55355](unreachable_AS55355-v4.html)   | ISP-AS-AP ISP                                        |          1 |                  1 |
+|   4 | [AS55355](unreachable_AS55355-v4.html)   | ISP-AS-AP ISP                                        |          1 |                  1 |
+|   5 | [AS56082](unreachable_AS56082-v4.html)   | ONE-NET-HK INTERNET-SOLUTION-                        |          1 |                  1 |
 
 <div class="datatable-end"></div>

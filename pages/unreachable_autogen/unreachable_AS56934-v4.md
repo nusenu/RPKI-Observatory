@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS56934-v4.html
 ---
 
-Data as of 2018-11-10 14:35:00 UTC
+Data as of 2018-11-15 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,5 +14,6 @@ Data as of 2018-11-10 14:35:00 UTC
 |:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
 | [46.255.184.0/24](https://stat.ripe.net/46.255.184.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS56934&prefix=46.255.184.0/24) | complete   | AS52122         |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.4.185.0/24](https://stat.ripe.net/185.4.185.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS56934&prefix=185.4.185.0/24)  | complete   | AS52122         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.72.69.0/24](https://stat.ripe.net/188.72.69.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS56934&prefix=188.72.69.0/24)  | complete   | AS58272         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

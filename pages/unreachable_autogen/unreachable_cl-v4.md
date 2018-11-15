@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cl-v4.html
 ---
 
-Data as of 2018-11-10 14:35:00 UTC
+Data as of 2018-11-15 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                  |   prefixes |   unreachable /24s |
-|----:|:-----------------------------------------|:--------------------------------------|-----------:|-------------------:|
-|   0 | [AS266902](unreachable_AS266902-v4.html) |                                       |          4 |                  4 |
-|   1 | [AS61440](unreachable_AS61440-v4.html)   | Digital Energy Technologies Chile SpA |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
+|   0 | [AS266902](unreachable_AS266902-v4.html) |                        |          4 |                  4 |
 
 <div class="datatable-end"></div>
