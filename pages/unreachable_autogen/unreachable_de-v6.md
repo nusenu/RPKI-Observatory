@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_de-v6.html
 ---
 
-Data as of 2018-11-16 02:35:00 UTC
+Data as of 2018-11-19 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -15,5 +15,7 @@ Data as of 2018-11-16 02:35:00 UTC
 |   0 | [AS8767](unreachable_AS8767-v6.html)     | MNET-AS - M-net Telekommunikations GmbH               |          1 |              65536 |
 |   1 | [AS207036](unreachable_AS207036-v6.html) | ARIELANTIGUA - Ariel Antigua                          |          1 |                 16 |
 |   2 | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd |         14 |                 14 |
+|   3 | [AS49745](unreachable_AS49745-v6.html)   | WUSEL-AS - Kai Siering                                |          1 |                  1 |
+|   4 | [AS30823](unreachable_AS30823-v6.html)   | COMBAHTON - combahton IT Services                     |          1 |                  1 |
 
 <div class="datatable-end"></div>

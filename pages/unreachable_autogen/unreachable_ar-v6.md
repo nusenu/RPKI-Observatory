@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ar-v6.html
 ---
 
-Data as of 2018-11-16 02:35:00 UTC
+Data as of 2018-11-19 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,7 +13,7 @@ Data as of 2018-11-16 02:35:00 UTC
 |   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /48s |
 |----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
 |   0 | [AS22080](unreachable_AS22080-v6.html) | Broadbandtech S. A.    |          1 |                 64 |
-|   1 | [AS52327](unreachable_AS52327-v6.html) | Summit S.A.            |          3 |                  3 |
+|   1 | [AS52327](unreachable_AS52327-v6.html) | Summit S.A.            |          6 |                  6 |
 |   2 | [AS64100](unreachable_AS64100-v6.html) | PRIVATEL S.R.L.        |          1 |                  1 |
 
 <div class="datatable-end"></div>
