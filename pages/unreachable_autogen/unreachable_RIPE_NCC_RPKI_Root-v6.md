@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_RIPE_NCC_RPKI_Root-v6.html
 ---
 
-Data as of 2018-11-19 14:35:00 UTC
+Data as of 2018-11-23 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -21,7 +21,7 @@ Data as of 2018-11-19 14:35:00 UTC
 |   6 | [2a07:c880::/32](https://stat.ripe.net/2a07:c880::/32)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS207249&prefix=2a07:c880::/32)     | complete   | [AS207249](unreachable_AS207249-v6.html) | ICS - Intercard Services PLC                                                                                                            |              65536 |
 |   7 | [2a06:e881:1600::/44](https://stat.ripe.net/2a06:e881:1600::/44) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS207036&prefix=2a06:e881:1600::/44)   | complete   | [AS207036](unreachable_AS207036-v6.html) | ARIELANTIGUA - Ariel Antigua                                                                                                            |                 16 |
 |   8 | [2a0a:2840:7208::/48](https://stat.ripe.net/2a0a:2840:7208::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=2a0a:2840:7208::/48) | complete   | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd                                                                                   |                  1 |
-|   9 | [2a0c:b642:fc1::/48](https://stat.ripe.net/2a0c:b642:fc1::/48)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS30823&prefix=2a0c:b642:fc1::/48)     | complete   | [AS30823](unreachable_AS30823-v6.html)   | COMBAHTON - combahton IT Services                                                                                                       |                  1 |
+|   9 | [2a0b:a280::/48](https://stat.ripe.net/2a0b:a280::/48)           | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=2a0b:a280::/48)         | complete   | [AS43260](unreachable_AS43260-v6.html)   | AS43260 - DGN TEKNOLOJI A.S.                                                                                                            |                  1 |
 |  10 | [2a0a:2840:7209::/48](https://stat.ripe.net/2a0a:2840:7209::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=2a0a:2840:7209::/48) | complete   | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd                                                                                   |                  1 |
 |  11 | [2a0a:2841::/48](https://stat.ripe.net/2a0a:2841::/48)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=2a0a:2841::/48)      | complete   | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd                                                                                   |                  1 |
 |  12 | [2a0a:2842:11::/48](https://stat.ripe.net/2a0a:2842:11::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=2a0a:2842:11::/48)   | complete   | [AS42962](unreachable_AS42962-v6.html)   | CLE-COMM - Shijiazhuang XuDing Technology Company Ltd                                                                                   |                  1 |

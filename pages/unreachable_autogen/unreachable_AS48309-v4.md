@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS48309-v4.html
 ---
 
-Data as of 2018-11-19 14:35:00 UTC
+Data as of 2018-11-23 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                     | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-----------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [188.136.176.0/21](https://stat.ripe.net/188.136.176.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS48309&prefix=188.136.176.0/21)    | complete   | AS56746         |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
 | [188.136.194.0/24](https://stat.ripe.net/188.136.194.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS48309&prefix=188.136.194.0/24) | complete   | AS48309         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [188.136.195.0/24](https://stat.ripe.net/188.136.195.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS48309&prefix=188.136.195.0/24) | complete   | AS48309         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
