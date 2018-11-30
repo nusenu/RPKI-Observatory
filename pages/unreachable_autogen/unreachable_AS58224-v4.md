@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS58224-v4.html
 ---
 
-Data as of 2018-11-23 02:35:00 UTC
+Data as of 2018-11-29 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -21,6 +21,7 @@ Data as of 2018-11-23 02:35:00 UTC
 | [176.223.80.0/21](https://stat.ripe.net/176.223.80.0/21)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=176.223.80.0/21)  | complete   | AS43754         |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
 | [188.214.216.0/21](https://stat.ripe.net/188.214.216.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=188.214.216.0/21) | complete   | AS43754         |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
 | [188.215.240.0/22](https://stat.ripe.net/188.215.240.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=188.215.240.0/22) | complete   | AS43754         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [188.214.96.0/22](https://stat.ripe.net/188.214.96.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=188.214.96.0/22)  | complete   | AS43754         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [188.213.208.0/22](https://stat.ripe.net/188.213.208.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=188.213.208.0/22) | complete   | AS43754         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [188.208.200.0/22](https://stat.ripe.net/188.208.200.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=188.208.200.0/22) | complete   | AS43754         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [185.131.168.0/22](https://stat.ripe.net/185.131.168.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=185.131.168.0/22) | complete   | AS43754         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |

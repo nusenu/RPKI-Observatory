@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cn-v6.html
 ---
 
-Data as of 2018-11-23 02:35:00 UTC
+Data as of 2018-11-29 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,5 +13,6 @@ Data as of 2018-11-23 02:35:00 UTC
 |   # | ASN                                      | (announcing) AS name                                |   prefixes |   unreachable /48s |
 |----:|:-----------------------------------------|:----------------------------------------------------|-----------:|-------------------:|
 |   0 | [AS131477](unreachable_AS131477-v6.html) | SHHJ-AS Shanghai Huajuan Information Technology Co. |          1 |               4096 |
+|   1 | [AS137936](unreachable_AS137936-v6.html) | NYATWORK Nyatwork                                   |          1 |                  1 |
 
 <div class="datatable-end"></div>

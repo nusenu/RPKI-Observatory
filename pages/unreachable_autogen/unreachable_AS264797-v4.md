@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS264797-v4.html
 ---
 
-Data as of 2018-11-23 02:35:00 UTC
+Data as of 2018-11-29 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -38,7 +38,6 @@ Data as of 2018-11-23 02:35:00 UTC
 | [200.50.176.0/24](https://stat.ripe.net/200.50.176.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=200.50.176.0/24)  | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [190.110.249.0/24](https://stat.ripe.net/190.110.249.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=190.110.249.0/24) | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [190.110.250.0/24](https://stat.ripe.net/190.110.250.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=190.110.250.0/24) | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
-| [190.110.251.0/24](https://stat.ripe.net/190.110.251.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=190.110.251.0/24) | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [190.110.252.0/24](https://stat.ripe.net/190.110.252.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=190.110.252.0/24) | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [200.50.166.0/24](https://stat.ripe.net/200.50.166.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=200.50.166.0/24)  | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [200.50.169.0/24](https://stat.ripe.net/200.50.169.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264797&prefix=200.50.169.0/24)  | complete   | AS10697         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |

@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS55097-v6.html
 ---
 
-Data as of 2018-11-23 02:35:00 UTC
+Data as of 2018-11-29 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                           |   unreachable /48s |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------|-------------------:|
-| [2604:a680:4::/48](https://stat.ripe.net/2604:a680:4::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS55097&prefix=2604:a680:4::/48) | complete   | AS6939          |          48 | [ARIN](unreachable_ARIN-v6.html) |                  1 |
+| [2604:a680:4::/48](https://stat.ripe.net/2604:a680:4::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS55097&prefix=2604:a680:4::/48) | complete   | AS36236         |          48 | [ARIN](unreachable_ARIN-v6.html) |                  1 |
 
 <div class="datatable-end"></div>
