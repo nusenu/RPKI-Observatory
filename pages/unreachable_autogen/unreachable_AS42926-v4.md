@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS42926-v4.html
 ---
 
-Data as of 2018-11-29 14:35:00 UTC
+Data as of 2018-12-07 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -19,7 +19,9 @@ Data as of 2018-11-29 14:35:00 UTC
 | [185.81.236.0/24](https://stat.ripe.net/185.81.236.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.81.236.0/24) | complete   | AS42910         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.81.237.0/24](https://stat.ripe.net/185.81.237.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.81.237.0/24) | complete   | AS42910         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.81.238.0/24](https://stat.ripe.net/185.81.238.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.81.238.0/24) | complete   | AS42910         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.171.88.0/24](https://stat.ripe.net/185.171.88.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.171.88.0/24) | complete   | AS202365        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.171.89.0/24](https://stat.ripe.net/185.171.89.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.171.89.0/24) | complete   | AS202365        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.171.90.0/24](https://stat.ripe.net/185.171.90.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.171.90.0/24) | complete   | AS202365        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.171.91.0/24](https://stat.ripe.net/185.171.91.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.171.91.0/24) | complete   | AS202365        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

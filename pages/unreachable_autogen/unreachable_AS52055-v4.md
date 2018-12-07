@@ -1,0 +1,36 @@
+---
+title: Unreachable Prefixes in AS52055 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS52055-v4.html
+---
+
+Data as of 2018-12-07 14:35:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                     | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [89.42.46.0/24](https://stat.ripe.net/89.42.46.0/24)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.42.46.0/24)    | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.209.119.0/24](https://stat.ripe.net/188.209.119.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=188.209.119.0/24) | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.209.118.0/24](https://stat.ripe.net/188.209.118.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=188.209.118.0/24) | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.209.117.0/24](https://stat.ripe.net/188.209.117.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=188.209.117.0/24) | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.209.116.0/24](https://stat.ripe.net/188.209.116.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=188.209.116.0/24) | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.44.243.0/24](https://stat.ripe.net/89.44.243.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.44.243.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.44.242.0/24](https://stat.ripe.net/89.44.242.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.44.242.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.44.241.0/24](https://stat.ripe.net/89.44.241.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.44.241.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.44.240.0/24](https://stat.ripe.net/89.44.240.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.44.240.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.42.47.0/24](https://stat.ripe.net/89.42.47.0/24)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.42.47.0/24)    | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.38.212.0/24](https://stat.ripe.net/89.38.212.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.38.212.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.42.45.0/24](https://stat.ripe.net/89.42.45.0/24)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.42.45.0/24)    | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.42.44.0/24](https://stat.ripe.net/89.42.44.0/24)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.42.44.0/24)    | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.41.187.0/24](https://stat.ripe.net/89.41.187.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.41.187.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.41.186.0/24](https://stat.ripe.net/89.41.186.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.41.186.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.41.185.0/24](https://stat.ripe.net/89.41.185.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.41.185.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.41.184.0/24](https://stat.ripe.net/89.41.184.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.41.184.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.38.215.0/24](https://stat.ripe.net/89.38.215.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.38.215.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.38.214.0/24](https://stat.ripe.net/89.38.214.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.38.214.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [89.38.213.0/24](https://stat.ripe.net/89.38.213.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52055&prefix=89.38.213.0/24)   | complete   | AS198357        |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>

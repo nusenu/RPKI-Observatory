@@ -1,17 +1,18 @@
 ---
-title: Unreachable Prefixes in AS1280 (IPv4)
+title: Unreachable Prefixes in AS4808 (IPv4)
 datatable: true
 sidebar: unreachable_sidebar
-permalink: unreachable_AS1280-v4.html
+permalink: unreachable_AS4808-v4.html
 ---
 
-Data as of 2018-11-29 14:35:00 UTC
+Data as of 2018-12-07 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:---------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
-| [103.10.232.0/24](https://stat.ripe.net/103.10.232.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS1280&prefix=103.10.232.0/24) | complete   | AS1281          |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [211.155.80.0/21](https://stat.ripe.net/211.155.80.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS4808&prefix=211.155.80.0/21) | complete   | AS56282         |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  8 |
+| [211.155.88.0/21](https://stat.ripe.net/211.155.88.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS4808&prefix=211.155.88.0/21) | complete   | AS56282         |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  8 |
 
 <div class="datatable-end"></div>

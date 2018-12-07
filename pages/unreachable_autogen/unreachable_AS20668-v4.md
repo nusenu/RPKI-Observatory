@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS20668-v4.html
 ---
 
-Data as of 2018-11-29 14:35:00 UTC
+Data as of 2018-12-07 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -15,7 +15,6 @@ Data as of 2018-11-29 14:35:00 UTC
 | [91.238.148.0/23](https://stat.ripe.net/91.238.148.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=91.238.148.0/23)  | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [193.192.44.0/23](https://stat.ripe.net/193.192.44.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=193.192.44.0/23)  | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [193.239.246.0/23](https://stat.ripe.net/193.239.246.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=193.239.246.0/23) | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
-| [194.6.202.0/23](https://stat.ripe.net/194.6.202.0/23)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=194.6.202.0/23)   | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [194.24.234.0/23](https://stat.ripe.net/194.24.234.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=194.24.234.0/23)  | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [194.42.100.0/23](https://stat.ripe.net/194.42.100.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=194.42.100.0/23)  | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [194.88.134.0/23](https://stat.ripe.net/194.88.134.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS20668&prefix=194.88.134.0/23)  | complete   | AS39802         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |

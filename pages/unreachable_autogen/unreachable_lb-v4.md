@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_lb-v4.html
 ---
 
-Data as of 2018-11-29 14:35:00 UTC
+Data as of 2018-12-07 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,6 +13,8 @@ Data as of 2018-11-29 14:35:00 UTC
 |   # | ASN                                    | (announcing) AS name                         |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:---------------------------------------------|-----------:|-------------------:|
 |   0 | [AS9051](unreachable_AS9051-v4.html)   | IncoNet Data Management sal                  |          1 |                 16 |
-|   1 | [AS61113](unreachable_AS61113-v4.html) | CAPITALOUTSOURCING - Capital Outsourcing SAL |          1 |                  1 |
+|   1 | [AS39402](unreachable_AS39402-v4.html) | FERRARINETWORKS-AS - Ferrari-Networks SARL   |          2 |                  2 |
+|   2 | [AS48629](unreachable_AS48629-v4.html) | ICLIK - ICLIK SARL                           |          1 |                  1 |
+|   3 | [AS61113](unreachable_AS61113-v4.html) | CAPITALOUTSOURCING - Capital Outsourcing SAL |          1 |                  1 |
 
 <div class="datatable-end"></div>

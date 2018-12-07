@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_se-v4.html
 ---
 
-Data as of 2018-11-29 14:35:00 UTC
+Data as of 2018-12-07 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                      |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:------------------------------------------|-----------:|-------------------:|
-|   0 | [AS42708](unreachable_AS42708-v4.html) | PORTLANE - Portlane AB                    |          2 |                  2 |
+|   0 | [AS12552](unreachable_AS12552-v4.html) | IPO-EU - IP-Only Networks AB              |          4 |                  4 |
 |   1 | [AS25252](unreachable_AS25252-v4.html) | VOLVOIT - Volvo Information Technology AB |          1 |                  1 |
 
 <div class="datatable-end"></div>

@@ -1,17 +1,17 @@
 ---
-title: Unreachable Prefixes in AS57785 (IPv4)
+title: Unreachable Prefixes in AS61102 (IPv4)
 datatable: true
 sidebar: unreachable_sidebar
-permalink: unreachable_AS57785-v4.html
+permalink: unreachable_AS61102-v4.html
 ---
 
-Data as of 2018-11-29 14:35:00 UTC
+Data as of 2018-12-07 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [37.143.171.0/24](https://stat.ripe.net/37.143.171.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS57785&prefix=37.143.171.0/24) | complete   | AS34714         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.170.56.0/22](https://stat.ripe.net/185.170.56.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61102&prefix=185.170.56.0/22) | complete   | AS61317         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 
 <div class="datatable-end"></div>
