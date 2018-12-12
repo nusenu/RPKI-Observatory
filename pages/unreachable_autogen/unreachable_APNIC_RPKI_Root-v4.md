@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_APNIC_RPKI_Root-v4.html
 ---
 
-Data as of 2018-12-07 14:35:00 UTC
+Data as of 2018-12-10 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -81,7 +81,7 @@ Data as of 2018-12-07 14:35:00 UTC
 |  66 | [120.29.70.0/23](https://stat.ripe.net/120.29.70.0/23)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.70.0/23)    | complete   | [AS17639](unreachable_AS17639-v4.html)   | CONVERGE-AS Converge ICT Solutions Inc.                                 |                  2 |
 |  67 | [120.29.108.0/23](https://stat.ripe.net/120.29.108.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.108.0/23)   | complete   | [AS17639](unreachable_AS17639-v4.html)   | CONVERGE-AS Converge ICT Solutions Inc.                                 |                  2 |
 |  68 | [121.59.0.0/23](https://stat.ripe.net/121.59.0.0/23)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS4134&prefix=121.59.0.0/23)         | complete   | [AS4134](unreachable_AS4134-v4.html)     | CHINANET-BACKBONE No.31                                                 |                  2 |
-|  69 | [125.5.24.0/23](https://stat.ripe.net/125.5.24.0/23)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=125.5.24.0/23)      | complete   | [AS7629](unreachable_AS7629-v4.html)     | EPLDT-AS-AP 5F L.V. Locsin Bldg                                         |                  2 |
+|  69 | [125.5.24.0/23](https://stat.ripe.net/125.5.24.0/23)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=125.5.24.0/23)      | partial    | [AS7629](unreachable_AS7629-v4.html)     | EPLDT-AS-AP 5F L.V. Locsin Bldg                                         |                  2 |
 |  70 | [125.5.26.0/23](https://stat.ripe.net/125.5.26.0/23)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=125.5.26.0/23)      | complete   | [AS7629](unreachable_AS7629-v4.html)     | EPLDT-AS-AP 5F L.V. Locsin Bldg                                         |                  2 |
 |  71 | [202.57.108.0/23](https://stat.ripe.net/202.57.108.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=202.57.108.0/23)    | complete   | [AS7629](unreachable_AS7629-v4.html)     | EPLDT-AS-AP 5F L.V. Locsin Bldg                                         |                  2 |
 |  72 | [202.57.114.0/23](https://stat.ripe.net/202.57.114.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=202.57.114.0/23)    | complete   | [AS7629](unreachable_AS7629-v4.html)     | EPLDT-AS-AP 5F L.V. Locsin Bldg                                         |                  2 |
