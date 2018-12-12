@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS55430-v4.html
 ---
 
-Data as of 2018-12-12 02:35:00 UTC
+Data as of 2018-12-12 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -39,6 +39,7 @@ Data as of 2018-12-12 02:35:00 UTC
 | [222.164.30.0/23](https://stat.ripe.net/222.164.30.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=222.164.30.0/23)  | complete   | AS55430         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [222.164.56.0/23](https://stat.ripe.net/222.164.56.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=222.164.56.0/23)  | complete   | AS55430         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [222.164.60.0/23](https://stat.ripe.net/222.164.60.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=222.164.60.0/23)  | complete   | AS55430         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
+| [103.17.146.0/24](https://stat.ripe.net/103.17.146.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=103.17.146.0/24)     | complete   | AS38861         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [222.164.120.0/24](https://stat.ripe.net/222.164.120.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=222.164.120.0/24) | complete   | AS55430         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [222.164.121.0/24](https://stat.ripe.net/222.164.121.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=222.164.121.0/24) | complete   | AS55430         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [222.164.122.0/24](https://stat.ripe.net/222.164.122.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=222.164.122.0/24) | complete   | AS55430         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |

@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_countries-v6.html
 ---
 
-Data as of 2018-12-12 02:35:00 UTC
+Data as of 2018-12-12 14:35:00 UTC
 
 <div class="datatable-begin"></div>
 
@@ -16,24 +16,23 @@ Data as of 2018-12-12 02:35:00 UTC
 |   2 | [AU](unreachable_au-v6.html) |               4 |                   4 |             135424 |
 |   3 | [GB](unreachable_gb-v6.html) |               3 |                   4 |             131074 |
 |   4 | [BD](unreachable_bd-v6.html) |               2 |                  32 |             131072 |
-|   5 | [DE](unreachable_de-v6.html) |               2 |                   2 |              65552 |
-|   6 | [SG](unreachable_sg-v6.html) |               1 |                   1 |              65536 |
+|   5 | [SG](unreachable_sg-v6.html) |               3 |                 184 |              65726 |
+|   6 | [DE](unreachable_de-v6.html) |               2 |                   2 |              65552 |
 |   7 | [LU](unreachable_lu-v6.html) |               1 |                   1 |              65536 |
 |   8 | [SE](unreachable_se-v6.html) |               1 |                   1 |              65536 |
 |   9 | [IS](unreachable_is-v6.html) |               1 |                   1 |              65536 |
 |  10 | [CL](unreachable_cl-v6.html) |               1 |                   9 |              28677 |
-|  11 | [US](unreachable_us-v6.html) |              12 |                  21 |               4116 |
+|  11 | [US](unreachable_us-v6.html) |               8 |                  10 |               4105 |
 |  12 | [CN](unreachable_cn-v6.html) |               1 |                   1 |               4096 |
 |  13 | [IN](unreachable_in-v6.html) |               3 |                   8 |                533 |
 |  14 | [AR](unreachable_ar-v6.html) |               3 |                   4 |                 67 |
 |  15 | [CO](unreachable_co-v6.html) |               4 |                   6 |                  6 |
 |  16 | [ZZ](unreachable_zz-v6.html) |               1 |                   4 |                  4 |
 |  17 | [MX](unreachable_mx-v6.html) |               1 |                   2 |                  2 |
-|  18 | [CA](unreachable_ca-v6.html) |               1 |                   1 |                  1 |
-|  19 | [EU](unreachable_eu-v6.html) |               1 |                   1 |                  1 |
-|  20 | [TR](unreachable_tr-v6.html) |               1 |                   1 |                  1 |
-|  21 | [EC](unreachable_ec-v6.html) |               1 |                   1 |                  1 |
-|  22 | [IE](unreachable_ie-v6.html) |               1 |                   1 |                  1 |
-|  23 | [DK](unreachable_dk-v6.html) |               1 |                   1 |                  1 |
+|  18 | [EU](unreachable_eu-v6.html) |               1 |                   1 |                  1 |
+|  19 | [TR](unreachable_tr-v6.html) |               1 |                   1 |                  1 |
+|  20 | [EC](unreachable_ec-v6.html) |               1 |                   1 |                  1 |
+|  21 | [IE](unreachable_ie-v6.html) |               1 |                   1 |                  1 |
+|  22 | [DK](unreachable_dk-v6.html) |               1 |                   1 |                  1 |
 
 <div class="datatable-end"></div>
