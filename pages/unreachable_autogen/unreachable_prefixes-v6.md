@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_prefixes-v6.html
 ---
 
-Data as of 2018-12-10 14:35:00 UTC
+Data as of 2018-12-11 02:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -94,7 +94,7 @@ Data as of 2018-12-10 14:35:00 UTC
 |  79 | [2403:8940:1::/48](https://stat.ripe.net/2403:8940:1::/48)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS135817&prefix=2403:8940:1::/48)    | complete   | [AS135817](unreachable_AS135817-v6.html) | AS135817 2403:8940::/32 32      | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                  1 |
 |  80 | [2403:8940:2::/48](https://stat.ripe.net/2403:8940:2::/48)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS135817&prefix=2403:8940:2::/48)    | complete   | [AS135817](unreachable_AS135817-v6.html) | AS135817 2403:8940::/32 32      | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                  1 |
 |  81 | [2403:8940:200::/48](https://stat.ripe.net/2403:8940:200::/48)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS135817&prefix=2403:8940:200::/48)  | complete   | [AS135817](unreachable_AS135817-v6.html) | AS135817 2403:8940::/32 32      | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                  1 |
-|  82 | [2602:fed2::/48](https://stat.ripe.net/2602:fed2::/48)           | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS396503&prefix=2602:fed2::/48)         | complete   | [AS396503](unreachable_AS396503-v6.html) | AS205096 2602:fed2::/48 0       | [ARIN](unreachable_ARIN-v6.html)               |                  1 |
+|  82 | [2602:fed2::/48](https://stat.ripe.net/2602:fed2::/48)           | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS396503&prefix=2602:fed2::/48)         | complete   | [AS396503](unreachable_AS396503-v6.html) | AS137908 2602:fed2::/48 0       | [ARIN](unreachable_ARIN-v6.html)               |                  1 |
 |  83 | [2604:a680:2::/48](https://stat.ripe.net/2604:a680:2::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS55079&prefix=2604:a680:2::/48)        | complete   | [AS55079](unreachable_AS55079-v6.html)   | AS36236 2604:a680::/32 48       | [ARIN](unreachable_ARIN-v6.html)               |                  1 |
 |  84 | [2604:a680:4::/48](https://stat.ripe.net/2604:a680:4::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS55097&prefix=2604:a680:4::/48)        | complete   | [AS55097](unreachable_AS55097-v6.html)   | AS36236 2604:a680::/32 48       | [ARIN](unreachable_ARIN-v6.html)               |                  1 |
 |  85 | [2604:a680:5::/48](https://stat.ripe.net/2604:a680:5::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS55079&prefix=2604:a680:5::/48)        | complete   | [AS55079](unreachable_AS55079-v6.html)   | AS36236 2604:a680::/32 48       | [ARIN](unreachable_ARIN-v6.html)               |                  1 |
