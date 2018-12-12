@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS42962-v4.html
 ---
 
-Data as of 2018-12-11 02:35:00 UTC
+Data as of 2018-12-11 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,7 +13,7 @@ Data as of 2018-12-11 02:35:00 UTC
 | Prefix                                                   | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
 | [103.81.186.0/23](https://stat.ripe.net/103.81.186.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=103.81.186.0/23) | complete   | AS17782         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
-| [103.81.184.0/24](https://stat.ripe.net/103.81.184.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=103.81.184.0/24) | complete   | AS17767         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
-| [103.81.185.0/24](https://stat.ripe.net/103.81.185.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=103.81.185.0/24) | complete   | AS17767         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.81.184.0/24](https://stat.ripe.net/103.81.184.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=103.81.184.0/24) | complete   | AS17782         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.81.185.0/24](https://stat.ripe.net/103.81.185.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42962&prefix=103.81.185.0/24) | complete   | AS17782         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

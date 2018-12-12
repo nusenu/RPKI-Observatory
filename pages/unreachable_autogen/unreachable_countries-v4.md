@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_countries-v4.html
 ---
 
-Data as of 2018-12-11 02:35:00 UTC
+Data as of 2018-12-11 14:35:00 UTC
 
 <div class="datatable-begin"></div>
 
@@ -19,13 +19,13 @@ Data as of 2018-12-11 02:35:00 UTC
 |   5 | [US](unreachable_us-v4.html) |              53 |                 216 |                283 |
 |   6 | [BR](unreachable_br-v4.html) |               3 |                   7 |                263 |
 |   7 | [CR](unreachable_cr-v4.html) |               1 |                  32 |                128 |
-|   8 | [PH](unreachable_ph-v4.html) |               6 |                  36 |                 95 |
-|   9 | [IN](unreachable_in-v4.html) |               6 |                  70 |                 75 |
-|  10 | [IT](unreachable_it-v4.html) |               1 |                   1 |                 64 |
-|  11 | [NL](unreachable_nl-v4.html) |              11 |                  20 |                 54 |
-|  12 | [GB](unreachable_gb-v4.html) |              18 |                  29 |                 53 |
-|  13 | [AU](unreachable_au-v4.html) |               9 |                  20 |                 52 |
-|  14 | [SG](unreachable_sg-v4.html) |               3 |                  30 |                 51 |
+|   8 | [SG](unreachable_sg-v4.html) |               4 |                  65 |                113 |
+|   9 | [PH](unreachable_ph-v4.html) |               6 |                  36 |                 95 |
+|  10 | [IN](unreachable_in-v4.html) |               6 |                  70 |                 75 |
+|  11 | [IT](unreachable_it-v4.html) |               1 |                   1 |                 64 |
+|  12 | [NL](unreachable_nl-v4.html) |              11 |                  20 |                 54 |
+|  13 | [GB](unreachable_gb-v4.html) |              18 |                  29 |                 53 |
+|  14 | [AU](unreachable_au-v4.html) |               9 |                  20 |                 52 |
 |  15 | [PE](unreachable_pe-v4.html) |               3 |                  16 |                 46 |
 |  16 | [PK](unreachable_pk-v4.html) |               3 |                  43 |                 43 |
 |  17 | [MX](unreachable_mx-v4.html) |               5 |                  40 |                 40 |
@@ -35,51 +35,52 @@ Data as of 2018-12-11 02:35:00 UTC
 |  21 | [RU](unreachable_ru-v4.html) |               5 |                   7 |                 23 |
 |  22 | [BD](unreachable_bd-v4.html) |               8 |                  14 |                 21 |
 |  23 | [LB](unreachable_lb-v4.html) |               4 |                   5 |                 20 |
-|  24 | [HN](unreachable_hn-v4.html) |               3 |                  17 |                 17 |
-|  25 | [UA](unreachable_ua-v4.html) |               4 |                   6 |                 17 |
-|  26 | [KH](unreachable_kh-v4.html) |               4 |                   8 |                 16 |
-|  27 | [HK](unreachable_hk-v4.html) |               6 |                  13 |                 16 |
-|  28 | [TR](unreachable_tr-v4.html) |               3 |                  16 |                 16 |
-|  29 | [EU](unreachable_eu-v4.html) |               5 |                   8 |                 16 |
-|  30 | [ES](unreachable_es-v4.html) |               8 |                  10 |                 15 |
-|  31 | [DE](unreachable_de-v4.html) |               6 |                   8 |                 13 |
-|  32 | [MN](unreachable_mn-v4.html) |               1 |                  12 |                 12 |
-|  33 | [BO](unreachable_bo-v4.html) |               3 |                   9 |                 12 |
+|  24 | [UA](unreachable_ua-v4.html) |               4 |                   6 |                 17 |
+|  25 | [HN](unreachable_hn-v4.html) |               3 |                  17 |                 17 |
+|  26 | [HK](unreachable_hk-v4.html) |               6 |                  13 |                 16 |
+|  27 | [TR](unreachable_tr-v4.html) |               3 |                  16 |                 16 |
+|  28 | [EU](unreachable_eu-v4.html) |               5 |                   8 |                 16 |
+|  29 | [ES](unreachable_es-v4.html) |               8 |                  10 |                 15 |
+|  30 | [KH](unreachable_kh-v4.html) |               4 |                   7 |                 15 |
+|  31 | [MN](unreachable_mn-v4.html) |               1 |                  12 |                 12 |
+|  32 | [BO](unreachable_bo-v4.html) |               3 |                   9 |                 12 |
+|  33 | [DE](unreachable_de-v4.html) |               5 |                   7 |                 11 |
 |  34 | [FR](unreachable_fr-v4.html) |               5 |                   9 |                  9 |
-|  35 | [LK](unreachable_lk-v4.html) |               1 |                   2 |                  8 |
-|  36 | [ID](unreachable_id-v4.html) |               2 |                   6 |                  8 |
-|  37 | [PS](unreachable_ps-v4.html) |               1 |                   1 |                  8 |
-|  38 | [LA](unreachable_la-v4.html) |               1 |                   1 |                  8 |
-|  39 | [PL](unreachable_pl-v4.html) |               6 |                   6 |                  8 |
-|  40 | [WS](unreachable_ws-v4.html) |               1 |                   2 |                  8 |
+|  35 | [ID](unreachable_id-v4.html) |               2 |                   6 |                  8 |
+|  36 | [PS](unreachable_ps-v4.html) |               1 |                   1 |                  8 |
+|  37 | [LA](unreachable_la-v4.html) |               1 |                   1 |                  8 |
+|  38 | [PL](unreachable_pl-v4.html) |               6 |                   6 |                  8 |
+|  39 | [WS](unreachable_ws-v4.html) |               1 |                   2 |                  8 |
+|  40 | [LK](unreachable_lk-v4.html) |               1 |                   2 |                  8 |
 |  41 | [IQ](unreachable_iq-v4.html) |               3 |                   7 |                  7 |
 |  42 | [SE](unreachable_se-v4.html) |               2 |                   5 |                  5 |
 |  43 | [HU](unreachable_hu-v4.html) |               2 |                   5 |                  5 |
-|  44 | [CA](unreachable_ca-v4.html) |               3 |                   5 |                  5 |
-|  45 | [PA](unreachable_pa-v4.html) |               2 |                   5 |                  5 |
-|  46 | [IE](unreachable_ie-v4.html) |               1 |                   1 |                  4 |
-|  47 | [LV](unreachable_lv-v4.html) |               1 |                   1 |                  4 |
-|  48 | [CL](unreachable_cl-v4.html) |               1 |                   4 |                  4 |
-|  49 | [DO](unreachable_do-v4.html) |               1 |                   1 |                  4 |
-|  50 | [NZ](unreachable_nz-v4.html) |               4 |                   4 |                  4 |
-|  51 | [GR](unreachable_gr-v4.html) |               1 |                   4 |                  4 |
-|  52 | [LT](unreachable_lt-v4.html) |               1 |                   1 |                  4 |
-|  53 | [IL](unreachable_il-v4.html) |               2 |                   4 |                  4 |
-|  54 | [SV](unreachable_sv-v4.html) |               2 |                   4 |                  4 |
-|  55 | [FI](unreachable_fi-v4.html) |               2 |                   3 |                  3 |
-|  56 | [CZ](unreachable_cz-v4.html) |               2 |                   2 |                  2 |
-|  57 | [AF](unreachable_af-v4.html) |               1 |                   2 |                  2 |
+|  44 | [PA](unreachable_pa-v4.html) |               2 |                   5 |                  5 |
+|  45 | [CA](unreachable_ca-v4.html) |               3 |                   5 |                  5 |
+|  46 | [CL](unreachable_cl-v4.html) |               1 |                   4 |                  4 |
+|  47 | [DO](unreachable_do-v4.html) |               1 |                   1 |                  4 |
+|  48 | [GR](unreachable_gr-v4.html) |               1 |                   4 |                  4 |
+|  49 | [LT](unreachable_lt-v4.html) |               1 |                   1 |                  4 |
+|  50 | [IL](unreachable_il-v4.html) |               2 |                   4 |                  4 |
+|  51 | [SV](unreachable_sv-v4.html) |               2 |                   4 |                  4 |
+|  52 | [IE](unreachable_ie-v4.html) |               1 |                   1 |                  4 |
+|  53 | [LV](unreachable_lv-v4.html) |               1 |                   1 |                  4 |
+|  54 | [EC](unreachable_ec-v4.html) |               1 |                   1 |                  4 |
+|  55 | [NZ](unreachable_nz-v4.html) |               4 |                   4 |                  4 |
+|  56 | [FI](unreachable_fi-v4.html) |               2 |                   3 |                  3 |
+|  57 | [CZ](unreachable_cz-v4.html) |               2 |                   2 |                  2 |
 |  58 | [JP](unreachable_jp-v4.html) |               2 |                   2 |                  2 |
 |  59 | [LU](unreachable_lu-v4.html) |               1 |                   2 |                  2 |
-|  60 | [CH](unreachable_ch-v4.html) |               2 |                   2 |                  2 |
+|  60 | [AF](unreachable_af-v4.html) |               1 |                   2 |                  2 |
 |  61 | [SA](unreachable_sa-v4.html) |               1 |                   2 |                  2 |
-|  62 | [MD](unreachable_md-v4.html) |               1 |                   1 |                  2 |
-|  63 | [AL](unreachable_al-v4.html) |               1 |                   1 |                  1 |
-|  64 | [BY](unreachable_by-v4.html) |               1 |                   1 |                  1 |
-|  65 | [MT](unreachable_mt-v4.html) |               1 |                   1 |                  1 |
-|  66 | [DK](unreachable_dk-v4.html) |               1 |                   1 |                  1 |
-|  67 | [TH](unreachable_th-v4.html) |               1 |                   1 |                  1 |
-|  68 | [MM](unreachable_mm-v4.html) |               1 |                   1 |                  1 |
+|  62 | [CH](unreachable_ch-v4.html) |               2 |                   2 |                  2 |
+|  63 | [MD](unreachable_md-v4.html) |               1 |                   1 |                  2 |
+|  64 | [AL](unreachable_al-v4.html) |               1 |                   1 |                  1 |
+|  65 | [BY](unreachable_by-v4.html) |               1 |                   1 |                  1 |
+|  66 | [TH](unreachable_th-v4.html) |               1 |                   1 |                  1 |
+|  67 | [MM](unreachable_mm-v4.html) |               1 |                   1 |                  1 |
+|  68 | [DK](unreachable_dk-v4.html) |               1 |                   1 |                  1 |
 |  69 | [KR](unreachable_kr-v4.html) |               1 |                   1 |                  1 |
+|  70 | [MT](unreachable_mt-v4.html) |               1 |                   1 |                  1 |
 
 <div class="datatable-end"></div>
