@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_roas-v6.html
 ---
 
-Data as of 2018-12-10 02:35:00 UTC
+Data as of 2018-12-10 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -28,7 +28,7 @@ Data as of 2018-12-10 02:35:00 UTC
 | AS137498 2402:9040::/32 32      | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                  16 |              65536 |
 | AS6306 2800:6b0::/28 28         | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   1 |              65536 |
 | AS134159 2400:a9c0::/32 32      | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                  16 |              65536 |
-| AS9443 2402:8700::/32 32        | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                   1 |              65536 |
+| AS9482 2402:8700::/32 32        | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                   1 |              65536 |
 | AS61317 2803:80::/32 64         | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   9 |              28677 |
 | AS137882 2402:f740::/32 32      | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                   2 |               8192 |
 | AS63956 2402:6040::/32 32       | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                   1 |               4096 |
@@ -43,13 +43,13 @@ Data as of 2018-12-10 02:35:00 UTC
 | AS7195 2800:1e0::/32 32         | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   3 |                  3 |
 | AS51957 2a00:5180::/32 32       | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                   3 |                  3 |
 | AS28539 2806:211::/32 32        | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   2 |                  2 |
-| AS6079 2604:ab80::/32 48        | [ARIN](unreachable_ARIN-v6.html)               |                   2 |                  2 |
+| AS20473 2604:ab80::/32 48       | [ARIN](unreachable_ARIN-v6.html)               |                   2 |                  2 |
 | AS202222 2a04:bbc0::/29 40      | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                   2 |                  2 |
 | AS48361 2001:67c:1484::/48 48   | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                   1 |                  1 |
 | AS198812 2001:67c:1240::/48 48  | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                   1 |                  1 |
 | AS64100 2803:db40::/32 32       | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   1 |                  1 |
 | AS264668 2803:b4c0:3::/48 48    | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   1 |                  1 |
-| AS137908 2602:fed2::/48 0       | [ARIN](unreachable_ARIN-v6.html)               |                   1 |                  1 |
+| AS205096 2602:fed2::/48 0       | [ARIN](unreachable_ARIN-v6.html)               |                   1 |                  1 |
 | AS17747 2402:ea80::/32 32       | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                   1 |                  1 |
 | AS19429 2801:170::/48 48        | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                   1 |                  1 |
 | AS62597 2402:cf80::/32 32       | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |                   1 |                  1 |
