@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_LACNIC_RPKI_Root-v6.html
 ---
 
-Data as of 2018-12-12 14:35:00 UTC
+Data as of 2018-12-22 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -44,11 +44,12 @@ Data as of 2018-12-12 14:35:00 UTC
 |  29 | [2803:80:1004::/48](https://stat.ripe.net/2803:80:1004::/48)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS61440&prefix=2803:80:1004::/48)      | complete   | [AS61440](unreachable_AS61440-v6.html)   | Digital Energy Technologies Chile SpA                   |                  1 |
 |  30 | [2801:170::/48](https://stat.ripe.net/2801:170::/48)             | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS264648&prefix=2801:170::/48)         | complete   | [AS264648](unreachable_AS264648-v6.html) | Fondo Rotatorio del Ministerio de Relaciones Exteriores |                  1 |
 |  31 | [2801:12:7000::/48](https://stat.ripe.net/2801:12:7000::/48)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS27650&prefix=2801:12:7000::/48)      | complete   | [AS27650](unreachable_AS27650-v6.html)   | EMTEL S.A. E.S.P.                                       |                  1 |
-|  32 | [2801:0:210::/48](https://stat.ripe.net/2801:0:210::/48)         | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS2&prefix=2801:0:210::/48)            | complete   | [AS2](unreachable_AS2-v6.html)           | UDEL-DCN - University of Delaware                       |                  1 |
-|  33 | [2800:26c:20::/48](https://stat.ripe.net/2800:26c:20::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52330&prefix=2800:26c:20::/48)       | complete   | [AS52330](unreachable_AS52330-v6.html)   | S3WIRELESS COLOMBIA S.A                                 |                  1 |
-|  34 | [2800:1e0:c01::/48](https://stat.ripe.net/2800:1e0:c01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:c01::/48)    | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
-|  35 | [2800:1e0:b01::/48](https://stat.ripe.net/2800:1e0:b01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:b01::/48)    | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
-|  36 | [2800:1e0:a01::/48](https://stat.ripe.net/2800:1e0:a01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:a01::/48)    | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
-|  37 | [2001:13c7:6000::/48](https://stat.ripe.net/2001:13c7:6000::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS3549&prefix=2001:13c7:6000::/48)     | complete   | [AS3549](unreachable_AS3549-v6.html)     | LVLT-3549 - Level 3 Parent                              |                  1 |
+|  32 | [2801:0:4c0::/48](https://stat.ripe.net/2801:0:4c0::/48)         | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS266736&prefix=2801:0:4c0::/48)       | complete   | [AS266736](unreachable_AS266736-v6.html) | Universidad Tecnologica de Pereira                      |                  1 |
+|  33 | [2801:0:210::/48](https://stat.ripe.net/2801:0:210::/48)         | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS2&prefix=2801:0:210::/48)            | complete   | [AS2](unreachable_AS2-v6.html)           | UDEL-DCN - University of Delaware                       |                  1 |
+|  34 | [2800:26c:20::/48](https://stat.ripe.net/2800:26c:20::/48)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS52330&prefix=2800:26c:20::/48)       | complete   | [AS52330](unreachable_AS52330-v6.html)   | S3WIRELESS COLOMBIA S.A                                 |                  1 |
+|  35 | [2800:1e0:c01::/48](https://stat.ripe.net/2800:1e0:c01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:c01::/48)    | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
+|  36 | [2800:1e0:b01::/48](https://stat.ripe.net/2800:1e0:b01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:b01::/48)    | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
+|  37 | [2800:1e0:a01::/48](https://stat.ripe.net/2800:1e0:a01::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7195&prefix=2800:1e0:a01::/48)    | complete   | [AS7195](unreachable_AS7195-v6.html)     | Telecorp Colombia S.A.                                  |                  1 |
+|  38 | [2001:13c7:6000::/48](https://stat.ripe.net/2001:13c7:6000::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS3549&prefix=2001:13c7:6000::/48)     | complete   | [AS3549](unreachable_AS3549-v6.html)     | LVLT-3549 - Level 3 Parent                              |                  1 |
 
 <div class="datatable-end"></div>

@@ -1,17 +1,17 @@
 ---
-title: Unreachable Prefixes in AS57271 (IPv4)
+title: Unreachable Prefixes in AS64249 (IPv4)
 datatable: true
 sidebar: unreachable_sidebar
-permalink: unreachable_AS57271-v4.html
+permalink: unreachable_AS64249-v4.html
 ---
 
-Data as of 2018-12-12 14:35:00 UTC
+Data as of 2018-12-22 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [191.101.249.0/24](https://stat.ripe.net/191.101.249.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS57271&prefix=191.101.249.0/24) | complete   | AS61317         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [190.113.241.0/24](https://stat.ripe.net/190.113.241.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS64249&prefix=190.113.241.0/24) | complete   | AS262193        |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

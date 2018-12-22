@@ -5,14 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_bd-v6.html
 ---
 
-Data as of 2018-12-12 14:35:00 UTC
+Data as of 2018-12-22 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                     |   prefixes |   unreachable /48s |
-|----:|:-----------------------------------------|:-----------------------------------------|-----------:|-------------------:|
-|   0 | [AS134159](unreachable_AS134159-v6.html) | MAHIENTERPRISE-AS-AP M/S Mahi Enterprise |         16 |              65536 |
-|   1 | [AS137498](unreachable_AS137498-v6.html) | NMSTL-AS-AP NMS TECHNOLOGIES LTD         |         16 |              65536 |
+|   # | ASN                                      | (announcing) AS name                                         |   prefixes |   unreachable /48s |
+|----:|:-----------------------------------------|:-------------------------------------------------------------|-----------:|-------------------:|
+|   0 | [AS134159](unreachable_AS134159-v6.html) | MAHIENTERPRISE-AS-AP M/S Mahi Enterprise                     |         16 |              65536 |
+|   1 | [AS137498](unreachable_AS137498-v6.html) | NMSTL-AS-AP NMS TECHNOLOGIES LTD                             |         16 |              65536 |
+|   2 | [AS135130](unreachable_AS135130-v6.html) | ACN-AS-AP Md. Wahid Murad T/A Anik Computer &amp; Networking |          1 |                  1 |
 
 <div class="datatable-end"></div>

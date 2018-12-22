@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_au-v6.html
 ---
 
-Data as of 2018-12-12 14:35:00 UTC
+Data as of 2018-12-22 14:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,7 +14,6 @@ Data as of 2018-12-12 14:35:00 UTC
 |----:|:---------------------------------------|:----------------------------------------------|-----------:|-------------------:|
 |   0 | [AS7604](unreachable_AS7604-v6.html)   | ZETTAGRID-AS ZETTAGRID CLOUD                  |          1 |              65536 |
 |   1 | [AS58979](unreachable_AS58979-v6.html) | CLOUDREGISTRY-AS-AP Cloud Registry Pty Ltd    |          1 |              65536 |
-|   2 | [AS63956](unreachable_AS63956-v6.html) | COLO-AS-AP Colocation Australia Pty Ltd       |          1 |               4096 |
-|   3 | [AS59256](unreachable_AS59256-v6.html) | ANSASERVERS Aus Net Servers Australia Pty Ltd |          1 |                256 |
+|   2 | [AS59256](unreachable_AS59256-v6.html) | ANSASERVERS Aus Net Servers Australia Pty Ltd |          1 |                256 |
 
 <div class="datatable-end"></div>
