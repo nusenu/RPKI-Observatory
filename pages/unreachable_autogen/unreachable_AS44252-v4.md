@@ -1,0 +1,18 @@
+---
+title: Unreachable Prefixes in AS44252 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS44252-v4.html
+---
+
+Data as of 2019-01-19 18:00:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                   | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [37.153.174.0/24](https://stat.ripe.net/37.153.174.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS44252&prefix=37.153.174.0/24) | complete   | AS44252         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [37.153.175.0/24](https://stat.ripe.net/37.153.175.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS44252&prefix=37.153.175.0/24) | complete   | AS44252         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>

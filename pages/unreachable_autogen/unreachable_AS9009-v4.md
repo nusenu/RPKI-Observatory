@@ -5,13 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS9009-v4.html
 ---
 
-Data as of 2018-12-22 14:35:00 UTC
+Data as of 2019-01-19 18:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-----------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [185.175.160.0/22](https://stat.ripe.net/185.175.160.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9009&prefix=185.175.160.0/22) | complete   | AS56871         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [185.182.240.0/22](https://stat.ripe.net/185.182.240.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9009&prefix=185.182.240.0/22) | complete   | AS44459         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [161.22.36.0/24](https://stat.ripe.net/161.22.36.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9009&prefix=161.22.36.0/24)   | complete   | AS12679         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [185.198.89.0/24](https://stat.ripe.net/185.198.89.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9009&prefix=185.198.89.0/24)  | complete   | AS53889         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.198.90.0/24](https://stat.ripe.net/185.198.90.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9009&prefix=185.198.90.0/24)  | complete   | AS53889         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
