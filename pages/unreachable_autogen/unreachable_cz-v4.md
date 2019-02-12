@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cz-v4.html
 ---
 
-Data as of 2019-01-19 18:00:00 UTC
+Data as of 2019-02-12 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:------------------------------------|-----------:|-------------------:|
-|   0 | [AS60724](unreachable_AS60724-v4.html) | SICUROCZ - Sicuro Services s. r. o. |          1 |                  1 |
-|   1 | [AS47949](unreachable_AS47949-v4.html) | GSNETCZ - gsnet.cz s.r.o.           |          1 |                  1 |
+|   0 | [AS47949](unreachable_AS47949-v4.html) | GSNETCZ - gsnet.cz s.r.o.           |          1 |                  1 |
+|   1 | [AS60724](unreachable_AS60724-v4.html) | SICUROCZ - Sicuro Services s. r. o. |          1 |                  1 |
 
 <div class="datatable-end"></div>

@@ -5,15 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_bo-v4.html
 ---
 
-Data as of 2019-01-19 18:00:00 UTC
+Data as of 2019-02-12 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name              |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:----------------------------------|-----------:|-------------------:|
-|   0 | [AS27882](unreachable_AS27882-v4.html)   | Telefnica Celular de Bolivia S.A. |          3 |                  6 |
+|   0 | [AS27882](unreachable_AS27882-v4.html)   | Telefnica Celular de Bolivia S.A. |          2 |                  8 |
 |   1 | [AS264789](unreachable_AS264789-v4.html) | AGENCIA BOLIVIANA ESPACIAL        |          4 |                  4 |
-|   2 | [AS27839](unreachable_AS27839-v4.html)   | Comteco Ltda                      |          2 |                  2 |
 
 <div class="datatable-end"></div>

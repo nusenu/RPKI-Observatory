@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_kz-v4.html
 ---
 
-Data as of 2019-01-19 18:00:00 UTC
+Data as of 2019-02-12 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                  |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:--------------------------------------|-----------:|-------------------:|
-|   0 | [AS202958](unreachable_AS202958-v4.html) | HOSTER-KZ - LLP "Kompaniya Hoster.KZ" |          1 |                  1 |
+|   0 | [AS202958](unreachable_AS202958-v4.html) | HOSTER-KZ - LLP "Kompaniya Hoster.KZ" |          4 |                  4 |
 
 <div class="datatable-end"></div>

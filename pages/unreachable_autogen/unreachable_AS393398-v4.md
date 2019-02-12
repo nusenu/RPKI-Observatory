@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS393398-v4.html
 ---
 
-Data as of 2019-01-19 18:00:00 UTC
+Data as of 2019-02-12 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-| Prefix                                                   | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                           |   unreachable /24s |
-|:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------|-------------------:|
-| [192.209.63.0/24](https://stat.ripe.net/192.209.63.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS393398&prefix=192.209.63.0/24) | complete   | AS61138         |           0 | [ARIN](unreachable_ARIN-v4.html) |                  1 |
+| Prefix                                                   | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [141.98.46.0/23](https://stat.ripe.net/141.98.46.0/23)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS393398&prefix=141.98.46.0/23)  | partial    | AS39083         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [192.209.63.0/24](https://stat.ripe.net/192.209.63.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS393398&prefix=192.209.63.0/24) | complete   | AS61138         |           0 | [ARIN](unreachable_ARIN-v4.html)               |                  1 |
 
 <div class="datatable-end"></div>

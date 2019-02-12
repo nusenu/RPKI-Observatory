@@ -5,30 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS59962-v4.html
 ---
 
-Data as of 2019-01-19 18:00:00 UTC
+Data as of 2019-02-12 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [87.107.9.0/24](https://stat.ripe.net/87.107.9.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.9.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [185.64.177.0/24](https://stat.ripe.net/185.64.177.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=185.64.177.0/24) | complete   | AS59962         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.64.176.0/24](https://stat.ripe.net/185.64.176.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=185.64.176.0/24) | complete   | AS59962         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.15.0/24](https://stat.ripe.net/87.107.15.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.15.0/24)     | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.14.0/24](https://stat.ripe.net/87.107.14.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.14.0/24)     | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.13.0/24](https://stat.ripe.net/87.107.13.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.13.0/24)     | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.12.0/24](https://stat.ripe.net/87.107.12.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.12.0/24)     | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.11.0/24](https://stat.ripe.net/87.107.11.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.11.0/24)     | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.10.0/24](https://stat.ripe.net/87.107.10.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.10.0/24)     | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.0.0/24](https://stat.ripe.net/87.107.0.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.0.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.8.0/24](https://stat.ripe.net/87.107.8.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.8.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.7.0/24](https://stat.ripe.net/87.107.7.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.7.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.6.0/24](https://stat.ripe.net/87.107.6.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.6.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.5.0/24](https://stat.ripe.net/87.107.5.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.5.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.4.0/24](https://stat.ripe.net/87.107.4.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.4.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.3.0/24](https://stat.ripe.net/87.107.3.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.3.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.2.0/24](https://stat.ripe.net/87.107.2.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.2.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [87.107.1.0/24](https://stat.ripe.net/87.107.1.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=87.107.1.0/24)      | complete   | AS21341         |          17 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.64.177.0/24](https://stat.ripe.net/185.64.177.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS59962&prefix=185.64.177.0/24) | complete   | AS59962         |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
