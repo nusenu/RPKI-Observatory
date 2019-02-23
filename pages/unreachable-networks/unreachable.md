@@ -107,7 +107,7 @@ it is announced via a more-specific prefix that is not authorized due to the [ma
 
 ## How often are the lists of unreachable networks updated?
 
-Pages are usually generated between daily and weekly. Every page 
+Pages are usually generated once a month. Every page
 shows a timestamp at the top.
 
 ## I found a false-positive / false-negative!
