@@ -5,15 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_hn-v4.html
 ---
 
-Data as of 2019-02-12 21:15:00 UTC
+Data as of 2019-02-23 08:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                         |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:---------------------------------------------|-----------:|-------------------:|
-|   0 | [AS262234](unreachable_AS262234-v4.html) | ASOCIACION DE SERVICIO DE INTERNET S. DE RL. |         12 |                 12 |
-|   1 | [AS263686](unreachable_AS263686-v4.html) | INET Communication                           |          4 |                  4 |
+|   0 | [AS263686](unreachable_AS263686-v4.html) | INET Communication                           |          4 |                  4 |
+|   1 | [AS262234](unreachable_AS262234-v4.html) | ASOCIACION DE SERVICIO DE INTERNET S. DE RL. |          4 |                  4 |
 |   2 | [AS23383](unreachable_AS23383-v4.html)   | METRORED S.A. DE C.V.                        |          1 |                  1 |
 
 <div class="datatable-end"></div>

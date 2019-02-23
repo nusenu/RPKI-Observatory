@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS17639-v4.html
 ---
 
-Data as of 2019-02-12 21:15:00 UTC
+Data as of 2019-02-23 08:30:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,6 +13,7 @@ Data as of 2019-02-12 21:15:00 UTC
 | Prefix                                                   | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
 | [120.29.64.0/23](https://stat.ripe.net/120.29.64.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.64.0/23)  | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
+| [120.29.68.0/23](https://stat.ripe.net/120.29.68.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.68.0/23)  | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [120.29.70.0/23](https://stat.ripe.net/120.29.70.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.70.0/23)  | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [120.29.108.0/23](https://stat.ripe.net/120.29.108.0/23) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=120.29.108.0/23) | complete   | AS17639         |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [103.105.88.0/24](https://stat.ripe.net/103.105.88.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17639&prefix=103.105.88.0/24)    | complete   | AS137226        |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
