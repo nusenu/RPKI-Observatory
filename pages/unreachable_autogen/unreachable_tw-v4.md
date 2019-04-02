@@ -5,14 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_tw-v4.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                            |   prefixes |   unreachable /24s |
-|----:|:-----------------------------------------|:------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS38851](unreachable_AS38851-v4.html)   | TNET-NET TNET Communication Inc.                |          1 |                 16 |
-|   1 | [AS131627](unreachable_AS131627-v4.html) | PEICITY-AS-TW Peicity Digital Cable Television. |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name                              |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:--------------------------------------------------|-----------:|-------------------:|
+|   0 | [AS18049](unreachable_AS18049-v4.html)   | TINP-TW Taiwan Infrastructure Network Technologie |          4 |                128 |
+|   1 | [AS38851](unreachable_AS38851-v4.html)   | TNET-NET TNET Communication Inc.                  |          1 |                 16 |
+|   2 | [AS131627](unreachable_AS131627-v4.html) | PEICITY-AS-TW Peicity Digital Cable Television.   |          1 |                  1 |
 
 <div class="datatable-end"></div>

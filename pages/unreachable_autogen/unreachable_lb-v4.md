@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_lb-v4.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,6 +13,6 @@ Data as of 2019-02-23 08:30:00 UTC
 |   # | ASN                                    | (announcing) AS name                       |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:-------------------------------------------|-----------:|-------------------:|
 |   0 | [AS35074](unreachable_AS35074-v4.html) | COBRANET-AS - Cobranet Limited             |          4 |                  4 |
-|   1 | [AS39402](unreachable_AS39402-v4.html) | FERRARINETWORKS-AS - Ferrari-Networks SARL |          2 |                  2 |
+|   1 | [AS39402](unreachable_AS39402-v4.html) | FERRARINETWORKS-AS - Ferrari-Networks SARL |          3 |                  3 |
 
 <div class="datatable-end"></div>

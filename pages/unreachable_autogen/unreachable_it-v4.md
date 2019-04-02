@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_it-v4.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name            |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:--------------------------------|-----------:|-------------------:|
-|   0 | [AS20746](unreachable_AS20746-v4.html) | ASN-IDC - Telecom Italia S.p.A. |          1 |                 64 |
+|   # | ASN                                      | (announcing) AS name          |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:------------------------------|-----------:|-------------------:|
+|   0 | [AS210172](unreachable_AS210172-v4.html) | MAIRNET - MARLETTA SAT S.R.L. |          4 |                  4 |
 
 <div class="datatable-end"></div>

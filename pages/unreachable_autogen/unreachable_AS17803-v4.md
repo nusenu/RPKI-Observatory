@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS17803-v4.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -53,7 +53,6 @@ Data as of 2019-02-23 08:30:00 UTC
 | [123.236.13.0/24](https://stat.ripe.net/123.236.13.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.13.0/24)  | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [123.236.11.0/24](https://stat.ripe.net/123.236.11.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.11.0/24)  | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [123.236.9.0/24](https://stat.ripe.net/123.236.9.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.9.0/24)   | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
-| [123.236.7.0/24](https://stat.ripe.net/123.236.7.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.7.0/24)   | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [123.236.6.0/24](https://stat.ripe.net/123.236.6.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.6.0/24)   | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [123.236.3.0/24](https://stat.ripe.net/123.236.3.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.3.0/24)   | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [123.236.1.0/24](https://stat.ripe.net/123.236.1.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS17803&prefix=123.236.1.0/24)   | complete   | AS18101         |          14 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |

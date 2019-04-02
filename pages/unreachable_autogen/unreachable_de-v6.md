@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_de-v6.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name         |   prefixes |   unreachable /48s |
-|----:|:-----------------------------------------|:-----------------------------|-----------:|-------------------:|
-|   0 | [AS207036](unreachable_AS207036-v6.html) | ARIELANTIGUA - Ariel Antigua |          1 |                 16 |
-|   1 | [AS204633](unreachable_AS204633-v6.html) | Kevin Buehl                  |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name                        |   prefixes |   unreachable /48s |
+|----:|:-----------------------------------------|:--------------------------------------------|-----------:|-------------------:|
+|   0 | [AS201011](unreachable_AS201011-v6.html) | NETZBETRIEB-GMBH - AS33891 Netzbetrieb GmbH |          1 |                  1 |
+|   1 | [AS209778](unreachable_AS209778-v6.html) | XQNET - Xiaoqian Li                         |          1 |                  1 |
 
 <div class="datatable-end"></div>

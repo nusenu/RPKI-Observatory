@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS209737-v4.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -15,7 +15,6 @@ Data as of 2019-02-23 08:30:00 UTC
 | [185.86.6.0/24](https://stat.ripe.net/185.86.6.0/24)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209737&prefix=185.86.6.0/24)    | complete   | AS43260         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.88.172.0/24](https://stat.ripe.net/185.88.172.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209737&prefix=185.88.172.0/24)  | complete   | AS43260         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.88.173.0/24](https://stat.ripe.net/185.88.173.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209737&prefix=185.88.173.0/24)  | complete   | AS43260         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [185.98.61.0/24](https://stat.ripe.net/185.98.61.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209737&prefix=185.98.61.0/24)   | complete   | AS43260         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.185.235.0/24](https://stat.ripe.net/185.185.235.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209737&prefix=185.185.235.0/24) | complete   | AS43260         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

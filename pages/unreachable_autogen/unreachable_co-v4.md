@@ -5,21 +5,18 @@ sidebar: unreachable_sidebar
 permalink: unreachable_co-v4.html
 ---
 
-Data as of 2019-02-23 08:30:00 UTC
+Data as of 2019-04-02 19:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                                 |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:-----------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS14080](unreachable_AS14080-v4.html)   | Telmex Colombia S.A.                                 |        444 |               1189 |
-|   1 | [AS27650](unreachable_AS27650-v4.html)   | EMTEL S.A. E.S.P.                                    |         23 |                 48 |
-|   2 | [AS262186](unreachable_AS262186-v4.html) | TV AZTECA SUCURSAL COLOMBIA                          |          1 |                 16 |
-|   3 | [AS27951](unreachable_AS27951-v4.html)   | Media Commerce Partners S.A                          |          1 |                  4 |
-|   4 | [AS266737](unreachable_AS266737-v4.html) | UNIVERSIDAD DEL CAUCA                                |          1 |                  2 |
-|   5 | [AS18678](unreachable_AS18678-v4.html)   | INTERNEXA S.A. E.S.P                                 |          2 |                  2 |
-|   6 | [AS27810](unreachable_AS27810-v4.html)   | MERCANET LTDA                                        |          1 |                  1 |
-|   7 | [AS61498](unreachable_AS61498-v4.html)   | O4IT Colombia SAS                                    |          1 |                  1 |
-|   8 | [AS27817](unreachable_AS27817-v4.html)   | Red Nacional Acadmica de Tecnologa Avanzada - RENATA |          1 |                  1 |
+|   0 | [AS262186](unreachable_AS262186-v4.html) | TV AZTECA SUCURSAL COLOMBIA                          |          2 |                 32 |
+|   1 | [AS14080](unreachable_AS14080-v4.html)   | Telmex Colombia S.A.                                 |          9 |                 19 |
+|   2 | [AS27951](unreachable_AS27951-v4.html)   | Media Commerce Partners S.A                          |          1 |                  4 |
+|   3 | [AS18678](unreachable_AS18678-v4.html)   | INTERNEXA S.A. E.S.P                                 |          2 |                  2 |
+|   4 | [AS27817](unreachable_AS27817-v4.html)   | Red Nacional Acadmica de Tecnologa Avanzada - RENATA |          1 |                  1 |
+|   5 | [AS27810](unreachable_AS27810-v4.html)   | MERCANET LTDA                                        |          1 |                  1 |
 
 <div class="datatable-end"></div>
