@@ -1,0 +1,35 @@
+---
+title: Unreachable Prefixes for APNIC RPKI Root (IPv6)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_APNIC_RPKI_Root-v6.html
+---
+
+Data as of 2019-04-27 09:45:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+|   # | prefix                                                           | reason                                                                                                        | affected   | (announcing) ASN                         | AS Name                                             |   unreachable /48s |
+|----:|:-----------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------|:-----------------------------------------|:----------------------------------------------------|-------------------:|
+|   0 | [2402:8700::/32](https://stat.ripe.net/2402:8700::/32)           | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58979&prefix=2402:8700::/32)         | partial    | [AS58979](unreachable_AS58979-v6.html)   | CLOUDREGISTRY-AS-AP Cloud Registry Pty Ltd          |              65536 |
+|   1 | [2406:3001::/32](https://stat.ripe.net/2406:3001::/32)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS38861&prefix=2406:3001::/32)      | partial    | [AS38861](unreachable_AS38861-v6.html)   | STARHUB-INTERNET2 StarHub Ltd                       |              65536 |
+|   2 | [2407:6180::/32](https://stat.ripe.net/2407:6180::/32)           | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS138466&prefix=2407:6180::/32)        | partial    | [AS138466](unreachable_AS138466-v6.html) | DATAMOSSA-AS-AP DataMossa                           |              65536 |
+|   3 | [2402:f740::/36](https://stat.ripe.net/2402:f740::/36)           | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS36351&prefix=2402:f740::/36)         | partial    | [AS36351](unreachable_AS36351-v6.html)   | SOFTLAYER - SoftLayer Technologies Inc.             |               4096 |
+|   4 | [2402:f740:1000::/36](https://stat.ripe.net/2402:f740:1000::/36) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS131477&prefix=2402:f740:1000::/36)   | partial    | [AS131477](unreachable_AS131477-v6.html) | SHHJ-AS Shanghai Huajuan Information Technology Co. |               4096 |
+|   5 | [2402:f740:2000::/36](https://stat.ripe.net/2402:f740:2000::/36) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS131477&prefix=2402:f740:2000::/36)   | partial    | [AS131477](unreachable_AS131477-v6.html) | SHHJ-AS Shanghai Huajuan Information Technology Co. |               4096 |
+|   6 | [2401:9cc0:300::/40](https://stat.ripe.net/2401:9cc0:300::/40)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS59256&prefix=2401:9cc0:300::/40)  | partial    | [AS59256](unreachable_AS59256-v6.html)   | ANSASERVERS Aus Net Servers Australia Pty Ltd       |                256 |
+|   7 | [2406:3003:3100::/45](https://stat.ripe.net/2406:3003:3100::/45) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=2406:3003:3100::/45) | partial    | [AS55430](unreachable_AS55430-v6.html)   | STARHUB-NGNBN Starhub Ltd                           |                  8 |
+|   8 | [2407:c280:a100::/45](https://stat.ripe.net/2407:c280:a100::/45) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS135610&prefix=2407:c280:a100::/45)   | partial    | [AS135610](unreachable_AS135610-v6.html) | HOSTLINK-AS-AP HostLink                             |                  8 |
+|   9 | [2401:2c0:1::/48](https://stat.ripe.net/2401:2c0:1::/48)         | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS32708&prefix=2401:2c0:1::/48)     | partial    | [AS32708](unreachable_AS32708-v6.html)   | ROOTNETWORKS - Root Networks                        |                  1 |
+|  10 | [2402:cf80:1006::/48](https://stat.ripe.net/2402:cf80:1006::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS62597&prefix=2402:cf80:1006::/48) | partial    | [AS62597](unreachable_AS62597-v6.html)   | NSONE - NSONE Inc                                   |                  1 |
+|  11 | [2402:ea80::/48](https://stat.ripe.net/2402:ea80::/48)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS17747&prefix=2402:ea80::/48)      | partial    | [AS17747](unreachable_AS17747-v6.html)   | SITINETWORS-IN-AP SITI NETWORKS LIMITED             |                  1 |
+|  12 | [2404:ae40::/48](https://stat.ripe.net/2404:ae40::/48)           | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS138932&prefix=2404:ae40::/48)     | partial    | [AS138932](unreachable_AS138932-v6.html) | GNSB-AS-AP GRIDCLOUD NETWORK SDN BHD                |                  1 |
+|  13 | [2404:f801:8020::/48](https://stat.ripe.net/2404:f801:8020::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS45139&prefix=2404:f801:8020::/48)    | partial    | [AS45139](unreachable_AS45139-v6.html)   | MICROSOFT-AS-AP Microsoft Corp                      |                  1 |
+|  14 | [2406:3002:20::/48](https://stat.ripe.net/2406:3002:20::/48)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9874&prefix=2406:3002:20::/48)    | partial    | [AS9874](unreachable_AS9874-v6.html)     | STARHUB-MOBILE StarHub Ltd                          |                  1 |
+|  15 | [2406:3003:100::/48](https://stat.ripe.net/2406:3003:100::/48)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS55430&prefix=2406:3003:100::/48)  | partial    | [AS55430](unreachable_AS55430-v6.html)   | STARHUB-NGNBN Starhub Ltd                           |                  1 |
+|  16 | [2407:c280:999::/48](https://stat.ripe.net/2407:c280:999::/48)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134409&prefix=2407:c280:999::/48)    | partial    | [AS134409](unreachable_AS134409-v6.html) | PUBLICDNS-AS-AP PublicDNS-Global AnyCast Network    |                  1 |
+|  17 | [2407:c280:3fff::/48](https://stat.ripe.net/2407:c280:3fff::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS24322&prefix=2407:c280:3fff::/48) | partial    | [AS24322](unreachable_AS24322-v6.html)   | HOSTLINK-AS-AP HostLink                             |                  1 |
+|  18 | [2407:c280:a1ff::/48](https://stat.ripe.net/2407:c280:a1ff::/48) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS135610&prefix=2407:c280:a1ff::/48)   | partial    | [AS135610](unreachable_AS135610-v6.html) | HOSTLINK-AS-AP HostLink                             |                  1 |
+
+<div class="datatable-end"></div>

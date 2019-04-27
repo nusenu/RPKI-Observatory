@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_countries-v4.html
 ---
 
-Data as of 2019-04-27 08:50:00 UTC
+Data as of 2019-04-27 09:45:00 UTC
 
 <div class="datatable-begin"></div>
 
@@ -34,8 +34,8 @@ Data as of 2019-04-27 08:50:00 UTC
 |  20 | [ES](unreachable_es-v4.html) |               7 |                  14 |                 16 |
 |  21 | [PK](unreachable_pk-v4.html) |               3 |                  15 |                 15 |
 |  22 | [RO](unreachable_ro-v4.html) |               3 |                  10 |                 15 |
-|  23 | [PL](unreachable_pl-v4.html) |               6 |                   6 |                 14 |
-|  24 | [IQ](unreachable_iq-v4.html) |               3 |                  14 |                 14 |
+|  23 | [IQ](unreachable_iq-v4.html) |               3 |                  14 |                 14 |
+|  24 | [PL](unreachable_pl-v4.html) |               6 |                   6 |                 14 |
 |  25 | [BO](unreachable_bo-v4.html) |               2 |                   6 |                 12 |
 |  26 | [BA](unreachable_ba-v4.html) |               2 |                   9 |                  9 |
 |  27 | [HU](unreachable_hu-v4.html) |               2 |                   3 |                  9 |
@@ -44,11 +44,11 @@ Data as of 2019-04-27 08:50:00 UTC
 |  30 | [CA](unreachable_ca-v4.html) |               3 |                   6 |                  7 |
 |  31 | [LB](unreachable_lb-v4.html) |               2 |                   7 |                  7 |
 |  32 | [DE](unreachable_de-v4.html) |               2 |                   5 |                  6 |
-|  33 | [HN](unreachable_hn-v4.html) |               2 |                   5 |                  5 |
-|  34 | [IT](unreachable_it-v4.html) |               2 |                   5 |                  5 |
-|  35 | [BG](unreachable_bg-v4.html) |               2 |                   2 |                  5 |
-|  36 | [NO](unreachable_no-v4.html) |               2 |                   3 |                  5 |
-|  37 | [SE](unreachable_se-v4.html) |               2 |                   5 |                  5 |
+|  33 | [SE](unreachable_se-v4.html) |               2 |                   5 |                  5 |
+|  34 | [HN](unreachable_hn-v4.html) |               2 |                   5 |                  5 |
+|  35 | [IT](unreachable_it-v4.html) |               2 |                   5 |                  5 |
+|  36 | [BG](unreachable_bg-v4.html) |               2 |                   2 |                  5 |
+|  37 | [NO](unreachable_no-v4.html) |               2 |                   3 |                  5 |
 |  38 | [LV](unreachable_lv-v4.html) |               1 |                   1 |                  4 |
 |  39 | [SV](unreachable_sv-v4.html) |               2 |                   4 |                  4 |
 |  40 | [ID](unreachable_id-v4.html) |               1 |                   2 |                  4 |
@@ -67,13 +67,13 @@ Data as of 2019-04-27 08:50:00 UTC
 |  53 | [MY](unreachable_my-v4.html) |               1 |                   2 |                  2 |
 |  54 | [LU](unreachable_lu-v4.html) |               1 |                   2 |                  2 |
 |  55 | [CZ](unreachable_cz-v4.html) |               2 |                   2 |                  2 |
-|  56 | [BE](unreachable_be-v4.html) |               1 |                   1 |                  1 |
-|  57 | [TH](unreachable_th-v4.html) |               1 |                   1 |                  1 |
-|  58 | [GT](unreachable_gt-v4.html) |               1 |                   1 |                  1 |
-|  59 | [CR](unreachable_cr-v4.html) |               1 |                   1 |                  1 |
-|  60 | [TM](unreachable_tm-v4.html) |               1 |                   1 |                  1 |
-|  61 | [CH](unreachable_ch-v4.html) |               1 |                   1 |                  1 |
-|  62 | [MM](unreachable_mm-v4.html) |               1 |                   1 |                  1 |
-|  63 | [GR](unreachable_gr-v4.html) |               1 |                   1 |                  1 |
+|  56 | [GR](unreachable_gr-v4.html) |               1 |                   1 |                  1 |
+|  57 | [BE](unreachable_be-v4.html) |               1 |                   1 |                  1 |
+|  58 | [TH](unreachable_th-v4.html) |               1 |                   1 |                  1 |
+|  59 | [GT](unreachable_gt-v4.html) |               1 |                   1 |                  1 |
+|  60 | [CR](unreachable_cr-v4.html) |               1 |                   1 |                  1 |
+|  61 | [TM](unreachable_tm-v4.html) |               1 |                   1 |                  1 |
+|  62 | [CH](unreachable_ch-v4.html) |               1 |                   1 |                  1 |
+|  63 | [MM](unreachable_mm-v4.html) |               1 |                   1 |                  1 |
 
 <div class="datatable-end"></div>
