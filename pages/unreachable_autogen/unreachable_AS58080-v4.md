@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS58080-v4.html
 ---
 
-Data as of 2019-04-27 09:45:00 UTC
+Data as of 2019-05-10 19:15:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -16,5 +16,6 @@ Data as of 2019-04-27 09:45:00 UTC
 | [212.33.202.0/23](https://stat.ripe.net/212.33.202.0/23) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS58080&prefix=212.33.202.0/23) | complete   | AS58080         |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [212.33.197.0/24](https://stat.ripe.net/212.33.197.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS58080&prefix=212.33.197.0/24) | complete   | AS58080         |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [212.33.199.0/24](https://stat.ripe.net/212.33.199.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS58080&prefix=212.33.199.0/24) | complete   | AS58080         |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [212.33.200.0/24](https://stat.ripe.net/212.33.200.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS58080&prefix=212.33.200.0/24) | complete   | AS58080         |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

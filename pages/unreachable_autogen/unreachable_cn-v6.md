@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cn-v6.html
 ---
 
-Data as of 2019-04-27 09:45:00 UTC
+Data as of 2019-05-10 19:15:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,5 +14,6 @@ Data as of 2019-04-27 09:45:00 UTC
 |----:|:-----------------------------------------|:----------------------------------------------------|-----------:|-------------------:|
 |   0 | [AS131477](unreachable_AS131477-v6.html) | SHHJ-AS Shanghai Huajuan Information Technology Co. |          2 |               8192 |
 |   1 | [AS138211](unreachable_AS138211-v6.html) | MOEQING-AS-AP MoeQing Network Service               |          1 |                 16 |
+|   2 | [AS24239](unreachable_AS24239-v6.html)   | TWD2-NET-AS-AP TWD2 Education and Research Network  |          1 |                  1 |
 
 <div class="datatable-end"></div>

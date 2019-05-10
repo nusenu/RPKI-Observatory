@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS7629-v4.html
 ---
 
-Data as of 2019-04-27 09:45:00 UTC
+Data as of 2019-05-10 19:15:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -20,7 +20,6 @@ Data as of 2019-04-27 09:45:00 UTC
 | [125.5.26.0/23](https://stat.ripe.net/125.5.26.0/23)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=125.5.26.0/23)   | complete   | AS7629          |          21 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [202.57.108.0/23](https://stat.ripe.net/202.57.108.0/23) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=202.57.108.0/23) | complete   | AS7629          |          19 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
 | [202.57.114.0/23](https://stat.ripe.net/202.57.114.0/23) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=202.57.114.0/23) | complete   | AS7629          |          19 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  2 |
-| [125.5.18.0/24](https://stat.ripe.net/125.5.18.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=125.5.18.0/24)      | complete   | AS134228        |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [202.57.111.0/24](https://stat.ripe.net/202.57.111.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS7629&prefix=202.57.111.0/24) | complete   | AS7629          |          19 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
