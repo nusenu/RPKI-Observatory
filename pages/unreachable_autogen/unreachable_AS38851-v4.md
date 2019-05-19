@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS38851-v4.html
 ---
 
-Data as of 2019-05-10 19:15:00 UTC
+Data as of 2019-05-19 13:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
-| [150.116.112.0/20](https://stat.ripe.net/150.116.112.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS38851&prefix=150.116.112.0/20) | complete   | AS18046         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                 16 |
+| [103.131.172.0/22](https://stat.ripe.net/103.131.172.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS38851&prefix=103.131.172.0/22) | complete   | AS33851         |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  4 |
 
 <div class="datatable-end"></div>

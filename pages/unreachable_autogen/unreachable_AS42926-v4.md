@@ -5,13 +5,17 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS42926-v4.html
 ---
 
-Data as of 2019-05-10 19:15:00 UTC
+Data as of 2019-05-19 13:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [45.80.172.0/24](https://stat.ripe.net/45.80.172.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=45.80.172.0/24)  | complete   | AS203377        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.80.173.0/24](https://stat.ripe.net/45.80.173.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=45.80.173.0/24)  | complete   | AS203377        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.80.174.0/24](https://stat.ripe.net/45.80.174.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=45.80.174.0/24)  | complete   | AS203377        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.80.175.0/24](https://stat.ripe.net/45.80.175.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=45.80.175.0/24)  | complete   | AS203377        |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [46.102.106.0/24](https://stat.ripe.net/46.102.106.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=46.102.106.0/24) | complete   | AS51559         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.70.84.0/24](https://stat.ripe.net/185.70.84.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.70.84.0/24)  | complete   | AS34984         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.70.85.0/24](https://stat.ripe.net/185.70.85.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS42926&prefix=185.70.85.0/24)  | complete   | AS34984         |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |

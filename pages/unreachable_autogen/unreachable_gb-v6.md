@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_gb-v6.html
 ---
 
-Data as of 2019-05-10 19:15:00 UTC
+Data as of 2019-05-19 13:30:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,6 +13,5 @@ Data as of 2019-05-10 19:15:00 UTC
 |   # | ASN                                    | (announcing) AS name              |   prefixes |   unreachable /48s |
 |----:|:---------------------------------------|:----------------------------------|-----------:|-------------------:|
 |   0 | [AS51055](unreachable_AS51055-v6.html) | BRIDGEP-AS - Bridge Fibre Limited |          1 |              65536 |
-|   1 | [AS39192](unreachable_AS39192-v6.html) | JACKNET - John Hadrill            |          2 |                  2 |
 
 <div class="datatable-end"></div>
