@@ -1,0 +1,20 @@
+---
+title: Unreachable Prefixes in AS134094 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS134094-v4.html
+---
+
+Data as of 2019-05-19 13:30:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                 | Reason                                                                                                 | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [5.253.244.0/24](https://stat.ripe.net/5.253.244.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134094&prefix=5.253.244.0/24) | complete   | AS57844         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [5.253.245.0/24](https://stat.ripe.net/5.253.245.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134094&prefix=5.253.245.0/24) | complete   | AS57844         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [5.253.246.0/24](https://stat.ripe.net/5.253.246.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134094&prefix=5.253.246.0/24) | complete   | AS57844         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [5.253.247.0/24](https://stat.ripe.net/5.253.247.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134094&prefix=5.253.247.0/24) | complete   | AS57844         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>
