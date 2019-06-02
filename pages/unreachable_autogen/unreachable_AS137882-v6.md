@@ -1,0 +1,18 @@
+---
+title: Unreachable Prefixes in AS137882 (IPv6)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS137882-v6.html
+---
+
+Data as of 2019-06-02 09:45:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                           | Reason                                                                                                         | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /48s |
+|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [2402:f740:2000::/36](https://stat.ripe.net/2402:f740:2000::/36) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS137882&prefix=2402:f740:2000::/36) | complete   | AS137882        |          32 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html)   |               4096 |
+| [2a09:4bc7:d020::/44](https://stat.ripe.net/2a09:4bc7:d020::/44) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS137882&prefix=2a09:4bc7:d020::/44)    | complete   | AS131477        |          44 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |                 16 |
+
+<div class="datatable-end"></div>
