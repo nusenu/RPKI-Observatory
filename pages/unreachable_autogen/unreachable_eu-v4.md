@@ -5,14 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_eu-v4.html
 ---
 
-Data as of 2019-06-19 20:45:00 UTC
+Data as of 2019-07-04 07:45:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                                                        |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:----------------------------------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS12654](unreachable_AS12654-v4.html) | RIPE-NCC-RIS-AS - Reseaux IP Europeens Network Coordination Centre RIPE NCC |          1 |                  1 |
-|   1 | [AS3177](unreachable_AS3177-v4.html)   | ERTEBAT-GOSTAR-AMINKOSHA - Visparad Web Hosting Service LLC                 |          1 |                  1 |
+|   0 | [AS20940](unreachable_AS20940-v4.html) | AKAMAI-ASN1 - Akamai International B.V.                                     |          6 |                  8 |
+|   1 | [AS12654](unreachable_AS12654-v4.html) | RIPE-NCC-RIS-AS - Reseaux IP Europeens Network Coordination Centre RIPE NCC |          1 |                  1 |
+|   2 | [AS3177](unreachable_AS3177-v4.html)   | ERTEBAT-GOSTAR-AMINKOSHA - Visparad Web Hosting Service LLC                 |          1 |                  1 |
 
 <div class="datatable-end"></div>

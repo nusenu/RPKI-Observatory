@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_gb-v6.html
 ---
 
-Data as of 2019-06-19 20:45:00 UTC
+Data as of 2019-07-04 07:45:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name              |   prefixes |   unreachable /48s |
-|----:|:---------------------------------------|:----------------------------------|-----------:|-------------------:|
-|   0 | [AS51055](unreachable_AS51055-v6.html) | BRIDGEP-AS - Bridge Fibre Limited |          1 |              65536 |
+|   # | ASN                                      | (announcing) AS name              |   prefixes |   unreachable /48s |
+|----:|:-----------------------------------------|:----------------------------------|-----------:|-------------------:|
+|   0 | [AS51055](unreachable_AS51055-v6.html)   | BRIDGEP-AS - Bridge Fibre Limited |          1 |              65536 |
+|   1 | [AS137937](unreachable_AS137937-v6.html) | BILLY-AS-AP Billy-George          |          1 |                 16 |
 
 <div class="datatable-end"></div>

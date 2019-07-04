@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS262186-v4.html
 ---
 
-Data as of 2019-06-19 20:45:00 UTC
+Data as of 2019-07-04 07:45:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,5 +14,6 @@ Data as of 2019-06-19 20:45:00 UTC
 |:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
 | [200.25.224.0/20](https://stat.ripe.net/200.25.224.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=200.25.224.0/20) | partial    | AS27763         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
 | [200.25.240.0/20](https://stat.ripe.net/200.25.240.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=200.25.240.0/20) | partial    | AS27763         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [170.247.2.0/24](https://stat.ripe.net/170.247.2.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=170.247.2.0/24)  | complete   | AS267788        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
