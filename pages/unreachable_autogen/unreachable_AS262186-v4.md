@@ -1,0 +1,21 @@
+---
+title: Unreachable Prefixes in AS262186 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS262186-v4.html
+---
+
+Data as of 2019-07-25 16:40:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                   | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [200.25.224.0/20](https://stat.ripe.net/200.25.224.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=200.25.224.0/20) | partial    | AS27763         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [200.25.240.0/20](https://stat.ripe.net/200.25.240.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=200.25.240.0/20) | partial    | AS27763         |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 16 |
+| [45.174.224.0/23](https://stat.ripe.net/45.174.224.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=45.174.224.0/23) | complete   | AS267842        |          23 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  2 |
+| [170.247.2.0/24](https://stat.ripe.net/170.247.2.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=170.247.2.0/24)  | complete   | AS267788        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [192.92.154.0/24](https://stat.ripe.net/192.92.154.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=192.92.154.0/24) | complete   | AS267842        |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>
