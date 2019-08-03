@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS137458-v4.html
 ---
 
-Data as of 2019-07-25 16:40:00 UTC
+Data as of 2019-08-03 18:05:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,5 +13,8 @@ Data as of 2019-07-25 16:40:00 UTC
 | Prefix                                                   | Reason                                                                                                     | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:---------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
 | [103.109.68.0/24](https://stat.ripe.net/103.109.68.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS137458&prefix=103.109.68.0/24) | complete   | AS137458        |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.109.69.0/24](https://stat.ripe.net/103.109.69.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS137458&prefix=103.109.69.0/24) | complete   | AS137458        |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.109.70.0/24](https://stat.ripe.net/103.109.70.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS137458&prefix=103.109.70.0/24) | complete   | AS137458        |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.109.71.0/24](https://stat.ripe.net/103.109.71.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS137458&prefix=103.109.71.0/24) | complete   | AS137458        |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

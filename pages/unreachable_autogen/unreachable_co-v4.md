@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_co-v4.html
 ---
 
-Data as of 2019-07-25 16:40:00 UTC
+Data as of 2019-08-03 18:05:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -18,6 +18,6 @@ Data as of 2019-07-25 16:40:00 UTC
 |   3 | [AS267869](unreachable_AS267869-v4.html) |                                                      |          1 |                  4 |
 |   4 | [AS22368](unreachable_AS22368-v4.html)   | TELEBUCARAMANGA S.A. E.S.P.                          |          2 |                  2 |
 |   5 | [AS18678](unreachable_AS18678-v4.html)   | INTERNEXA S.A. E.S.P                                 |          2 |                  2 |
-|   6 | [AS27817](unreachable_AS27817-v4.html)   | Red Nacional Acadmica de Tecnologa Avanzada - RENATA |          2 |                  2 |
+|   6 | [AS27817](unreachable_AS27817-v4.html)   | Red Nacional Acadmica de Tecnologa Avanzada - RENATA |          1 |                  1 |
 
 <div class="datatable-end"></div>

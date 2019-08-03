@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_lv-v4.html
 ---
 
-Data as of 2019-07-25 16:40:00 UTC
+Data as of 2019-08-03 18:05:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
-|----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS209659](unreachable_AS209659-v4.html) | DENG - Deng xiaomao    |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name         |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-----------------------------|-----------:|-------------------:|
+|   0 | [AS24651](unreachable_AS24651-v4.html)   | LVBALTICOM-AS - JSC BALTICOM |          1 |                  4 |
+|   1 | [AS209659](unreachable_AS209659-v4.html) | DENG - Deng xiaomao          |          1 |                  1 |
 
 <div class="datatable-end"></div>

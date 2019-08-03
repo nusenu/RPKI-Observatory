@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS8386-v4.html
 ---
 
-Data as of 2019-07-25 16:40:00 UTC
+Data as of 2019-08-03 18:05:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -53,6 +53,7 @@ Data as of 2019-07-25 16:40:00 UTC
 | [31.155.252.0/23](https://stat.ripe.net/31.155.252.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=31.155.252.0/23)  | complete   | AS8386          |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [31.155.254.0/23](https://stat.ripe.net/31.155.254.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=31.155.254.0/23)  | complete   | AS8386          |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 | [31.155.138.0/23](https://stat.ripe.net/31.155.138.0/23)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=31.155.138.0/23)  | complete   | AS8386          |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [213.186.128.0/24](https://stat.ripe.net/213.186.128.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.128.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [188.3.239.0/24](https://stat.ripe.net/188.3.239.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=188.3.239.0/24)   | complete   | AS8386          |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [188.3.238.0/24](https://stat.ripe.net/188.3.238.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=188.3.238.0/24)   | complete   | AS8386          |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [188.3.237.0/24](https://stat.ripe.net/188.3.237.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=188.3.237.0/24)   | complete   | AS8386          |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
@@ -66,7 +67,6 @@ Data as of 2019-07-25 16:40:00 UTC
 | [188.3.113.0/24](https://stat.ripe.net/188.3.113.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=188.3.113.0/24)   | complete   | AS8386          |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [188.3.112.0/24](https://stat.ripe.net/188.3.112.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=188.3.112.0/24)   | complete   | AS8386          |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [188.3.87.0/24](https://stat.ripe.net/188.3.87.0/24)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=188.3.87.0/24)    | complete   | AS8386          |          21 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [213.186.128.0/24](https://stat.ripe.net/213.186.128.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.128.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.129.0/24](https://stat.ripe.net/213.186.129.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.129.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.130.0/24](https://stat.ripe.net/213.186.130.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.130.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.131.0/24](https://stat.ripe.net/213.186.131.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.131.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
@@ -77,6 +77,7 @@ Data as of 2019-07-25 16:40:00 UTC
 | [213.186.137.0/24](https://stat.ripe.net/213.186.137.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.137.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.138.0/24](https://stat.ripe.net/213.186.138.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.138.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.139.0/24](https://stat.ripe.net/213.186.139.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.139.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [213.186.140.0/24](https://stat.ripe.net/213.186.140.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.140.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.141.0/24](https://stat.ripe.net/213.186.141.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.141.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.142.0/24](https://stat.ripe.net/213.186.142.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.142.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [213.186.143.0/24](https://stat.ripe.net/213.186.143.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS8386&prefix=213.186.143.0/24) | complete   | AS8386          |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |

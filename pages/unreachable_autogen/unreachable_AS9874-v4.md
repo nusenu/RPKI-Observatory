@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS9874-v4.html
 ---
 
-Data as of 2019-07-25 16:40:00 UTC
+Data as of 2019-08-03 18:05:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                               | Reason                                                                                              | affected   | Authorized AS   |   MaxLength | Anchor                                       |   unreachable /24s |
 |:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:---------------------------------------------|-------------------:|
-| [27.54.37.0/24](https://stat.ripe.net/27.54.37.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9874&prefix=27.54.37.0/24) | complete   | AS4657          |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [27.54.37.0/24](https://stat.ripe.net/27.54.37.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS9874&prefix=27.54.37.0/24) | complete   | AS38861         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

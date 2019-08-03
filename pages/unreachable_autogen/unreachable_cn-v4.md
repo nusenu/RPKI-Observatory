@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cn-v4.html
 ---
 
-Data as of 2019-07-25 16:40:00 UTC
+Data as of 2019-08-03 18:05:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                                                    |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:------------------------------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS45102](unreachable_AS45102-v4.html) | CNNIC-ALIBABA-CN-NET-AP Alibaba China Technology Co.                    |          4 |                324 |
+|   0 | [AS45102](unreachable_AS45102-v4.html) | CNNIC-ALIBABA-CN-NET-AP Alibaba China Technology Co.                    |          3 |                322 |
 |   1 | [AS4847](unreachable_AS4847-v4.html)   | CNIX-AP China Networks Inter-Exchange                                   |          1 |                128 |
 |   2 | [AS4809](unreachable_AS4809-v4.html)   | CHINATELECOM-CORE-WAN-CN2 China Telecom Next Generation Carrier Network |          3 |                 13 |
 |   3 | [AS24134](unreachable_AS24134-v4.html) | CNNIC-CNLINKNET-AP CNLink Networks Ltd.                                 |          1 |                  4 |
