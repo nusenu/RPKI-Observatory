@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS52327-v6.html
 ---
 
-Data as of 2019-08-03 18:05:00 UTC
+Data as of 2019-08-11 11:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -20,6 +20,5 @@ Data as of 2019-08-03 18:05:00 UTC
 | [2803:7d00:b000::/48](https://stat.ripe.net/2803:7d00:b000::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS52327&prefix=2803:7d00:b000::/48) | complete   | AS52327         |          32 | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                  1 |
 | [2803:7d00:b020::/48](https://stat.ripe.net/2803:7d00:b020::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS52327&prefix=2803:7d00:b020::/48) | complete   | AS52327         |          32 | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                  1 |
 | [2803:7d00:b505::/48](https://stat.ripe.net/2803:7d00:b505::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS52327&prefix=2803:7d00:b505::/48) | complete   | AS52327         |          32 | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                  1 |
-| [2803:7d00:b595::/48](https://stat.ripe.net/2803:7d00:b595::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS52327&prefix=2803:7d00:b595::/48) | complete   | AS52327         |          32 | [LACNIC](unreachable_LACNIC_RPKI_Root-v6.html) |                  1 |
 
 <div class="datatable-end"></div>

@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_tw-v6.html
 ---
 
-Data as of 2019-08-03 18:05:00 UTC
+Data as of 2019-08-11 11:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                 |   prefixes |   unreachable /48s |
 |----:|:-----------------------------------------|:-------------------------------------|-----------:|-------------------:|
-|   0 | [AS131644](unreachable_AS131644-v6.html) | ZENDONGINFO-NET Zhendong Information |          2 |                  2 |
+|   0 | [AS131644](unreachable_AS131644-v6.html) | ZENDONGINFO-NET Zhendong Information |          3 |                  3 |
 
 <div class="datatable-end"></div>
