@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS134548-v4.html
 ---
 
-Data as of 2019-08-11 11:00:00 UTC
+Data as of 2019-08-24 07:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -18,6 +18,10 @@ Data as of 2019-08-11 11:00:00 UTC
 | [175.29.96.0/20](https://stat.ripe.net/175.29.96.0/20)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.96.0/20)  | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                 16 |
 | [175.29.208.0/20](https://stat.ripe.net/175.29.208.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.208.0/20) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                 16 |
 | [175.29.112.0/21](https://stat.ripe.net/175.29.112.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.112.0/21) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  8 |
+| [175.29.128.0/21](https://stat.ripe.net/175.29.128.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.128.0/21) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  8 |
+| [175.29.152.0/21](https://stat.ripe.net/175.29.152.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.152.0/21) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  8 |
 | [175.29.200.0/21](https://stat.ripe.net/175.29.200.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.200.0/21) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  8 |
+| [175.29.136.0/22](https://stat.ripe.net/175.29.136.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.136.0/22) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  4 |
+| [175.29.148.0/22](https://stat.ripe.net/175.29.148.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS134548&prefix=175.29.148.0/22) | partial    | AS17469         |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  4 |
 
 <div class="datatable-end"></div>

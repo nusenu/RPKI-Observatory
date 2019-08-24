@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS3215-v4.html
 ---
 
-Data as of 2019-08-11 11:00:00 UTC
+Data as of 2019-08-24 07:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-| Prefix                                                 | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
-|:-------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [109.221.0.0/17](https://stat.ripe.net/109.221.0.0/17) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS3215&prefix=109.221.0.0/17) | partial    | AS3215          |          16 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                128 |
+| Prefix                                                     | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-----------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [109.221.0.0/17](https://stat.ripe.net/109.221.0.0/17)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS3215&prefix=109.221.0.0/17)   | partial    | AS3215          |          16 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                128 |
+| [109.221.128.0/17](https://stat.ripe.net/109.221.128.0/17) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS3215&prefix=109.221.128.0/17) | partial    | AS3215          |          16 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                128 |
 
 <div class="datatable-end"></div>

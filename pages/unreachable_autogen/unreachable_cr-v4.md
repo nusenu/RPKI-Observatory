@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cr-v4.html
 ---
 
-Data as of 2019-08-11 11:00:00 UTC
+Data as of 2019-08-24 07:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                            |   prefixes |   unreachable /24s |
-|----:|:-----------------------------------------|:------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS262241](unreachable_AS262241-v4.html) | CoopeAlfaroRuiz                                 |          4 |                  4 |
-|   1 | [AS264686](unreachable_AS264686-v4.html) | TECNOLOGIA Y SISTEMAS WILCASJI SOCIEDAD ANONIMA |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
+|   0 | [AS262241](unreachable_AS262241-v4.html) | CoopeAlfaroRuiz        |          4 |                  4 |
 
 <div class="datatable-end"></div>

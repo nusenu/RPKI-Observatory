@@ -1,0 +1,45 @@
+---
+title: Unreachable Prefixes in AS15774 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS15774-v4.html
+---
+
+Data as of 2019-08-24 07:00:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                     | Reason                                                                                                  | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [188.168.152.0/21](https://stat.ripe.net/188.168.152.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.152.0/21) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
+| [188.168.168.0/21](https://stat.ripe.net/188.168.168.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.168.0/21) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
+| [188.168.216.0/21](https://stat.ripe.net/188.168.216.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.216.0/21) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
+| [188.168.144.0/21](https://stat.ripe.net/188.168.144.0/21) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.144.0/21) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
+| [188.168.176.0/22](https://stat.ripe.net/188.168.176.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.176.0/22) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [188.168.180.0/22](https://stat.ripe.net/188.168.180.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.180.0/22) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [188.168.212.0/22](https://stat.ripe.net/188.168.212.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.212.0/22) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [188.168.224.0/22](https://stat.ripe.net/188.168.224.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.224.0/22) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [188.168.228.0/22](https://stat.ripe.net/188.168.228.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.228.0/22) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [188.168.206.0/23](https://stat.ripe.net/188.168.206.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.206.0/23) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [188.168.200.0/23](https://stat.ripe.net/188.168.200.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.200.0/23) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [188.168.198.0/23](https://stat.ripe.net/188.168.198.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.198.0/23) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [188.168.188.0/23](https://stat.ripe.net/188.168.188.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.188.0/23) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [188.168.130.0/23](https://stat.ripe.net/188.168.130.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.130.0/23) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [188.168.192.0/23](https://stat.ripe.net/188.168.192.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.192.0/23) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
+| [188.168.205.0/24](https://stat.ripe.net/188.168.205.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.205.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.204.0/24](https://stat.ripe.net/188.168.204.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.204.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.203.0/24](https://stat.ripe.net/188.168.203.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.203.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.202.0/24](https://stat.ripe.net/188.168.202.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.202.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.191.0/24](https://stat.ripe.net/188.168.191.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.191.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.190.0/24](https://stat.ripe.net/188.168.190.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.190.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.143.0/24](https://stat.ripe.net/188.168.143.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.143.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.142.0/24](https://stat.ripe.net/188.168.142.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.142.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.141.0/24](https://stat.ripe.net/188.168.141.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.141.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.140.0/24](https://stat.ripe.net/188.168.140.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.140.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.134.0/24](https://stat.ripe.net/188.168.134.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.134.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.133.0/24](https://stat.ripe.net/188.168.133.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.133.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.129.0/24](https://stat.ripe.net/188.168.129.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.129.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [188.168.128.0/24](https://stat.ripe.net/188.168.128.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS15774&prefix=188.168.128.0/24) | partial    | AS20485         |          32 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>
