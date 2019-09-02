@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_de-v6.html
 ---
 
-Data as of 2019-08-24 07:00:00 UTC
+Data as of 2019-09-02 18:10:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /48s |
 |----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS209778](unreachable_AS209778-v6.html) | XQNET - Xiaoqian Li    |          1 |                  1 |
+|   0 | [AS209778](unreachable_AS209778-v6.html) | XQNET - Xiaoqian Li    |          2 |                  2 |
 
 <div class="datatable-end"></div>

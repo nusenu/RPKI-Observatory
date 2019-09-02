@@ -5,15 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS16906-v4.html
 ---
 
-Data as of 2019-08-24 07:00:00 UTC
+Data as of 2019-09-02 18:10:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [138.94.244.0/24](https://stat.ripe.net/138.94.244.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS16906&prefix=138.94.244.0/24) | partial    | AS16906         |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
-| [138.94.245.0/24](https://stat.ripe.net/138.94.245.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS16906&prefix=138.94.245.0/24) | partial    | AS16906         |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
-| [138.94.246.0/24](https://stat.ripe.net/138.94.246.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS16906&prefix=138.94.246.0/24) | partial    | AS16906         |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [138.94.244.0/24](https://stat.ripe.net/138.94.244.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS16906&prefix=138.94.244.0/24) | complete   | AS16906         |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [138.94.245.0/24](https://stat.ripe.net/138.94.245.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS16906&prefix=138.94.245.0/24) | complete   | AS16906         |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
+| [138.94.246.0/24](https://stat.ripe.net/138.94.246.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS16906&prefix=138.94.246.0/24) | complete   | AS16906         |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
