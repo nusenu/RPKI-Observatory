@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ca-v6.html
 ---
 
-Data as of 2019-09-21 13:20:00 UTC
+Data as of 2019-10-03 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                       |   prefixes |   unreachable /48s |
 |----:|:---------------------------------------|:-------------------------------------------|-----------:|-------------------:|
-|   0 | [AS53356](unreachable_AS53356-v6.html) | WESTCONNECT - WestConnect Communications   |          1 |                  1 |
-|   1 | [AS22923](unreachable_AS22923-v6.html) | YESUP-389 - Yesup Ecommerce Solutions Inc. |          1 |                  1 |
+|   0 | [AS22923](unreachable_AS22923-v6.html) | YESUP-389 - Yesup Ecommerce Solutions Inc. |          1 |                  1 |
 
 <div class="datatable-end"></div>

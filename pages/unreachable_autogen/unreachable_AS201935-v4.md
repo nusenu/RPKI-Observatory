@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS201935-v4.html
 ---
 
-Data as of 2019-09-21 13:20:00 UTC
+Data as of 2019-10-03 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                   | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
+| [164.138.239.0/24](https://stat.ripe.net/164.138.239.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS201935&prefix=164.138.239.0/24) | partial    | AS57958         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [185.115.207.0/24](https://stat.ripe.net/185.115.207.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS201935&prefix=185.115.207.0/24) | partial    | AS15637         |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

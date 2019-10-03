@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ar-v6.html
 ---
 
-Data as of 2019-09-21 13:20:00 UTC
+Data as of 2019-10-03 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name                       |   prefixes |   unreachable /48s |
-|----:|:---------------------------------------|:-------------------------------------------|-----------:|-------------------:|
-|   0 | [AS52327](unreachable_AS52327-v6.html) | Summit S.A.                                |          4 |                  4 |
-|   1 | [AS28048](unreachable_AS28048-v6.html) | Internet Para Todos - Gobierno de La Rioja |          1 |                  1 |
+|   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /48s |
+|----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
+|   0 | [AS52327](unreachable_AS52327-v6.html) | Summit S.A.            |          4 |                  4 |
 
 <div class="datatable-end"></div>

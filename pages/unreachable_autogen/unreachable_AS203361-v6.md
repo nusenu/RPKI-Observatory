@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS203361-v6.html
 ---
 
-Data as of 2019-09-21 13:20:00 UTC
+Data as of 2019-10-03 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                 | Reason                                                                                                    | affected   | Authorized AS   |   MaxLength | Anchor                                         |   unreachable /48s |
 |:-------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|:----------------|------------:|:-----------------------------------------------|-------------------:|
-| [2a06:f1c0::/30](https://stat.ripe.net/2a06:f1c0::/30) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS203361&prefix=2a06:f1c0::/30) | partial    | AS203361        |          29 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |             262144 |
-| [2a06:f1c4::/30](https://stat.ripe.net/2a06:f1c4::/30) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS203361&prefix=2a06:f1c4::/30) | partial    | AS203361        |          29 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |             262144 |
+| [2a06:f1c0::/30](https://stat.ripe.net/2a06:f1c0::/30) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS203361&prefix=2a06:f1c0::/30) | complete   | AS203361        |          29 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |             262144 |
+| [2a06:f1c4::/30](https://stat.ripe.net/2a06:f1c4::/30) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS203361&prefix=2a06:f1c4::/30) | complete   | AS203361        |          29 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v6.html) |             262144 |
 
 <div class="datatable-end"></div>
