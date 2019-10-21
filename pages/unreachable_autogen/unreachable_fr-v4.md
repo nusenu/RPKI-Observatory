@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_fr-v4.html
 ---
 
-Data as of 2019-10-03 11:20:00 UTC
+Data as of 2019-10-21 11:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                        |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:--------------------------------------------|-----------:|-------------------:|
-|   0 | [AS3215](unreachable_AS3215-v4.html)   | AS3215 - Orange S.A.                        |          4 |                128 |
+|   0 | [AS3215](unreachable_AS3215-v4.html)   | AS3215 - Orange S.A.                        |          6 |                384 |
 |   1 | [AS51110](unreachable_AS51110-v4.html) | IDOMTECHNOLOGIES-AS - IDOM TECHNOLOGIES SAS |          3 |                  3 |
 |   2 | [AS34572](unreachable_AS34572-v4.html) | HELIANTIS-AS - HELIANTIS SAS                |          1 |                  1 |
 

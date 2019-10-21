@@ -5,17 +5,16 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cl-v4.html
 ---
 
-Data as of 2019-10-03 11:20:00 UTC
+Data as of 2019-10-21 11:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                  |   prefixes |   unreachable /24s |
-|----:|:-----------------------------------------|:--------------------------------------|-----------:|-------------------:|
-|   0 | [AS6535](unreachable_AS6535-v4.html)     | Telmex Servicios Empresariales S.A.   |          1 |                256 |
-|   1 | [AS27995](unreachable_AS27995-v4.html)   | CLARO CHILE S.A.                      |         10 |                104 |
-|   2 | [AS6471](unreachable_AS6471-v4.html)     | ENTEL CHILE S.A.                      |          6 |                  6 |
-|   3 | [AS266878](unreachable_AS266878-v4.html) |                                       |          1 |                  1 |
-|   4 | [AS61440](unreachable_AS61440-v4.html)   | Digital Energy Technologies Chile SpA |          1 |                  1 |
+|   # | ASN                                    | (announcing) AS name                  |   prefixes |   unreachable /24s |
+|----:|:---------------------------------------|:--------------------------------------|-----------:|-------------------:|
+|   0 | [AS6535](unreachable_AS6535-v4.html)   | Telmex Servicios Empresariales S.A.   |          1 |                256 |
+|   1 | [AS27995](unreachable_AS27995-v4.html) | CLARO CHILE S.A.                      |         10 |                104 |
+|   2 | [AS6471](unreachable_AS6471-v4.html)   | ENTEL CHILE S.A.                      |          6 |                  6 |
+|   3 | [AS61440](unreachable_AS61440-v4.html) | Digital Energy Technologies Chile SpA |          1 |                  1 |
 
 <div class="datatable-end"></div>
