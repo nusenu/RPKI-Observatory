@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ba-v4.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                  |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:--------------------------------------|-----------:|-------------------:|
-|   0 | [AS35567](unreachable_AS35567-v4.html) | DASTO-BOSNIA-AS - DASTO semtel d.o.o. |          1 |                  1 |
+|   0 | [AS35567](unreachable_AS35567-v4.html) | DASTO-BOSNIA-AS - DASTO semtel d.o.o. |         19 |                 19 |
 
 <div class="datatable-end"></div>

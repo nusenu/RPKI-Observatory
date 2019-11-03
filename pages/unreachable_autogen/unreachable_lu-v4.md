@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_lu-v4.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                    |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:----------------------------------------|-----------:|-------------------:|
-|   0 | [AS12684](unreachable_AS12684-v4.html) | SES-LUX-AS - SES ASTRA S.A.             |          1 |                  4 |
-|   1 | [AS41589](unreachable_AS41589-v4.html) | LGTECH-AS - Lux Green Technologies Sarl |          2 |                  2 |
+|   0 | [AS41589](unreachable_AS41589-v4.html) | LGTECH-AS - Lux Green Technologies Sarl |          2 |                  2 |
 
 <div class="datatable-end"></div>

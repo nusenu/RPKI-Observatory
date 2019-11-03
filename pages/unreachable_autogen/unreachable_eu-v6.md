@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_eu-v6.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                                                        |   prefixes |   unreachable /48s |
 |----:|:---------------------------------------|:----------------------------------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS12654](unreachable_AS12654-v6.html) | RIPE-NCC-RIS-AS - Reseaux IP Europeens Network Coordination Centre RIPE NCC |          2 |                  2 |
+|   0 | [AS48337](unreachable_AS48337-v6.html) | LINODE-AS - Linode LLC                                                      |          1 |              65536 |
+|   1 | [AS12654](unreachable_AS12654-v6.html) | RIPE-NCC-RIS-AS - Reseaux IP Europeens Network Coordination Centre RIPE NCC |          2 |                  2 |
 
 <div class="datatable-end"></div>

@@ -5,13 +5,16 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS23860-v4.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                  | affected   |   Authorized AS |   MaxLength | Anchor                                       |   unreachable /24s |
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:---------------------------------------------|-------------------:|
-| [103.141.246.0/24](https://stat.ripe.net/103.141.246.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS23860&prefix=103.141.246.0/24) | partial    |          134304 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.119.57.0/24](https://stat.ripe.net/103.119.57.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS23860&prefix=103.119.57.0/24)  | complete   |          135389 |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.119.58.0/24](https://stat.ripe.net/103.119.58.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS23860&prefix=103.119.58.0/24)  | complete   |          135389 |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.119.59.0/24](https://stat.ripe.net/103.119.59.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS23860&prefix=103.119.59.0/24)  | complete   |          135389 |          22 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.141.246.0/24](https://stat.ripe.net/103.141.246.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS23860&prefix=103.141.246.0/24) | complete   |          134304 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

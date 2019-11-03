@@ -5,16 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS131644-v6.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                         | Reason                                                                                                        | affected   |   Authorized AS |   MaxLength | Anchor                                       |   unreachable /48s |
 |:---------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:---------------------------------------------|-------------------:|
-| [2404:d740:21::/48](https://stat.ripe.net/2404:d740:21::/48)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS131644&prefix=2404:d740:21::/48)  | complete   |          131644 |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html) |                  1 |
-| [2404:d740:99::/48](https://stat.ripe.net/2404:d740:99::/48)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS131644&prefix=2404:d740:99::/48)  | complete   |          131644 |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html) |                  1 |
 | [2404:d740:ad::/48](https://stat.ripe.net/2404:d740:ad::/48)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS131644&prefix=2404:d740:ad::/48)  | complete   |          131644 |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html) |                  1 |
-| [2404:d740:100::/48](https://stat.ripe.net/2404:d740:100::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS131644&prefix=2404:d740:100::/48) | complete   |          131644 |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html) |                  1 |
+| [2404:d740:700::/48](https://stat.ripe.net/2404:d740:700::/48) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS131644&prefix=2404:d740:700::/48) | complete   |          131644 |           0 | [APNIC](unreachable_APNIC_RPKI_Root-v6.html) |                  1 |
 
 <div class="datatable-end"></div>

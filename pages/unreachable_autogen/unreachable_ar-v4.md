@@ -5,35 +5,31 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ar-v4.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                         |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:---------------------------------------------|-----------:|-------------------:|
-|   0 | [AS27823](unreachable_AS27823-v4.html)   | Dattatec.com                                 |         16 |                 16 |
-|   1 | [AS52273](unreachable_AS52273-v4.html)   | Loop Coronel Suarez S.A.                     |          8 |                  8 |
-|   2 | [AS7303](unreachable_AS7303-v4.html)     | Telecom Argentina S.A.                       |          5 |                  6 |
-|   3 | [AS265741](unreachable_AS265741-v4.html) | GPS SANJUAN SRL.                             |          4 |                  4 |
+|   0 | [AS52273](unreachable_AS52273-v4.html)   | Loop Coronel Suarez S.A.                     |          8 |                  8 |
+|   1 | [AS7303](unreachable_AS7303-v4.html)     | Telecom Argentina S.A.                       |          5 |                  6 |
+|   2 | [AS61518](unreachable_AS61518-v4.html)   | CORRAL DE BUSTOS TELEVISION SRL              |          2 |                  5 |
+|   3 | [AS27983](unreachable_AS27983-v4.html)   | Red Intercable Digital S.A.                  |          1 |                  4 |
 |   4 | [AS266707](unreachable_AS266707-v4.html) | WI-SIM COMUNICACIONES SRL                    |          4 |                  4 |
-|   5 | [AS27983](unreachable_AS27983-v4.html)   | Red Intercable Digital S.A.                  |          1 |                  4 |
-|   6 | [AS266725](unreachable_AS266725-v4.html) | SOLUTION LAN S.A                             |          1 |                  4 |
-|   7 | [AS263834](unreachable_AS263834-v4.html) | VILLA GESELL TELEVISIN COMUNITARIA S.A.      |          3 |                  3 |
-|   8 | [AS61501](unreachable_AS61501-v4.html)   | TARJETAS CUYANAS S.A.                        |          3 |                  3 |
-|   9 | [AS265719](unreachable_AS265719-v4.html) | ENZO RAUL GALVAN                             |          2 |                  2 |
-|  10 | [AS52436](unreachable_AS52436-v4.html)   | Cable Televisora Color                       |          1 |                  2 |
-|  11 | [AS52323](unreachable_AS52323-v4.html)   | Colsecor Cooperativa Limitada                |          1 |                  1 |
+|   5 | [AS266725](unreachable_AS266725-v4.html) | SOLUTION LAN S.A                             |          1 |                  4 |
+|   6 | [AS61501](unreachable_AS61501-v4.html)   | TARJETAS CUYANAS S.A.                        |          3 |                  3 |
+|   7 | [AS10617](unreachable_AS10617-v4.html)   | SION S.A                                     |          2 |                  2 |
+|   8 | [AS265719](unreachable_AS265719-v4.html) | ENZO RAUL GALVAN                             |          2 |                  2 |
+|   9 | [AS52436](unreachable_AS52436-v4.html)   | Cable Televisora Color                       |          1 |                  2 |
+|  10 | [AS267683](unreachable_AS267683-v4.html) |                                              |          1 |                  1 |
+|  11 | [AS265686](unreachable_AS265686-v4.html) | PROVIDERS S.A.                               |          1 |                  1 |
 |  12 | [AS267866](unreachable_AS267866-v4.html) |                                              |          1 |                  1 |
-|  13 | [AS264669](unreachable_AS264669-v4.html) | TECNOCOMP S.R.L.                             |          1 |                  1 |
-|  14 | [AS266871](unreachable_AS266871-v4.html) |                                              |          1 |                  1 |
-|  15 | [AS27827](unreachable_AS27827-v4.html)   | Gualberto Larrauri                           |          1 |                  1 |
-|  16 | [AS267683](unreachable_AS267683-v4.html) |                                              |          1 |                  1 |
-|  17 | [AS265686](unreachable_AS265686-v4.html) | PROVIDERS S.A.                               |          1 |                  1 |
-|  18 | [AS7049](unreachable_AS7049-v4.html)     | Silica Networks Argentina S.A.               |          1 |                  1 |
-|  19 | [AS265816](unreachable_AS265816-v4.html) | DELCO IMAGEN S.A.                            |          1 |                  1 |
-|  20 | [AS264808](unreachable_AS264808-v4.html) | Gobierno de Mendoza - Ministerio de Hacienda |          1 |                  1 |
-|  21 | [AS10617](unreachable_AS10617-v4.html)   | SION S.A                                     |          1 |                  1 |
-|  22 | [AS61518](unreachable_AS61518-v4.html)   | CORRAL DE BUSTOS TELEVISION SRL              |          1 |                  1 |
+|  13 | [AS7049](unreachable_AS7049-v4.html)     | Silica Networks Argentina S.A.               |          1 |                  1 |
+|  14 | [AS264669](unreachable_AS264669-v4.html) | TECNOCOMP S.R.L.                             |          1 |                  1 |
+|  15 | [AS265816](unreachable_AS265816-v4.html) | DELCO IMAGEN S.A.                            |          1 |                  1 |
+|  16 | [AS27827](unreachable_AS27827-v4.html)   | Gualberto Larrauri                           |          1 |                  1 |
+|  17 | [AS266871](unreachable_AS266871-v4.html) |                                              |          1 |                  1 |
+|  18 | [AS264808](unreachable_AS264808-v4.html) | Gobierno de Mendoza - Ministerio de Hacienda |          1 |                  1 |
 
 <div class="datatable-end"></div>

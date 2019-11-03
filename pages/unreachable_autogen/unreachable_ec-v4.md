@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ec-v4.html
 ---
 
-Data as of 2019-10-21 11:30:00 UTC
+Data as of 2019-11-03 00:30:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,6 +13,5 @@ Data as of 2019-10-21 11:30:00 UTC
 |   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
 |   0 | [AS23487](unreachable_AS23487-v4.html) | CONECEL                |          1 |                  1 |
-|   1 | [AS22724](unreachable_AS22724-v4.html) | PUNTONET S.A.          |          1 |                  1 |
 
 <div class="datatable-end"></div>
