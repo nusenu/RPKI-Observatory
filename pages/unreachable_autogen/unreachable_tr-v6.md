@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_tr-v6.html
 ---
 
-Data as of 2019-11-03 00:30:00 UTC
+Data as of 2019-12-13 22:40:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name                               |   prefixes |   unreachable /48s |
-|----:|:---------------------------------------|:---------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS51559](unreachable_AS51559-v6.html) | NETINTERNET - Netinternet Bilisim Teknolojileri AS |         32 |                 32 |
+|   # | ASN                                    | (announcing) AS name                                          |   prefixes |   unreachable /48s |
+|----:|:---------------------------------------|:--------------------------------------------------------------|-----------:|-------------------:|
+|   0 | [AS51559](unreachable_AS51559-v6.html) | NETINTERNET - Netinternet Bilisim Teknolojileri AS            |         32 |                 32 |
+|   1 | [AS61135](unreachable_AS61135-v6.html) | COMNET-ASN - COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S. |          1 |                  1 |
 
 <div class="datatable-end"></div>

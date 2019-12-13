@@ -5,38 +5,41 @@ sidebar: unreachable_sidebar
 permalink: unreachable_countries-v6.html
 ---
 
-Data as of 2019-11-03 00:30:00 UTC
+Data as of 2019-12-13 22:40:00 UTC
 
 <div class="datatable-begin"></div>
 
 |   # | Country                      |   affected ASNs |   affected prefixes |   unreachable /48s |
 |----:|:-----------------------------|----------------:|--------------------:|-------------------:|
-|   0 | [DE](unreachable_de-v6.html) |               2 |                   5 |            1572866 |
-|   1 | [RU](unreachable_ru-v6.html) |               4 |                  15 |             524302 |
+|   0 | [RU](unreachable_ru-v6.html) |               3 |                   5 |             524292 |
+|   1 | [DE](unreachable_de-v6.html) |               3 |                   4 |             524291 |
 |   2 | [FR](unreachable_fr-v6.html) |               1 |                   2 |             524288 |
-|   3 | [DK](unreachable_dk-v6.html) |               1 |                   1 |             524288 |
-|   4 | [US](unreachable_us-v6.html) |               9 |                  17 |             196877 |
-|   5 | [VE](unreachable_ve-v6.html) |               3 |                   3 |             196608 |
-|   6 | [CN](unreachable_cn-v6.html) |               1 |                   2 |             131072 |
-|   7 | [CO](unreachable_co-v6.html) |               6 |                   9 |              66564 |
-|   8 | [SG](unreachable_sg-v6.html) |               3 |                   4 |              65546 |
+|   3 | [US](unreachable_us-v6.html) |              13 |                  21 |             196881 |
+|   4 | [CN](unreachable_cn-v6.html) |               2 |                   3 |             131073 |
+|   5 | [VE](unreachable_ve-v6.html) |               2 |                   2 |             131072 |
+|   6 | [CO](unreachable_co-v6.html) |               7 |                  10 |              66565 |
+|   7 | [BD](unreachable_bd-v6.html) |               4 |                   5 |              65539 |
+|   8 | [HK](unreachable_hk-v6.html) |               2 |                   4 |              65539 |
 |   9 | [EU](unreachable_eu-v6.html) |               2 |                   3 |              65538 |
-|  10 | [ID](unreachable_id-v6.html) |               2 |                   2 |              65537 |
-|  11 | [HK](unreachable_hk-v6.html) |               2 |                   2 |              65537 |
-|  12 | [GB](unreachable_gb-v6.html) |               2 |                   2 |              65537 |
-|  13 | [PL](unreachable_pl-v6.html) |               1 |                   1 |              65536 |
-|  14 | [DO](unreachable_do-v6.html) |               1 |                   1 |              65536 |
-|  15 | [PH](unreachable_ph-v6.html) |               1 |                   4 |              65536 |
-|  16 | [AU](unreachable_au-v6.html) |               5 |                   6 |               8203 |
-|  17 | [TR](unreachable_tr-v6.html) |               1 |                  32 |                 32 |
-|  18 | [TW](unreachable_tw-v6.html) |               2 |                  10 |                 10 |
-|  19 | [AR](unreachable_ar-v6.html) |               1 |                   4 |                  4 |
-|  20 | [NL](unreachable_nl-v6.html) |               2 |                   3 |                  3 |
-|  21 | [MX](unreachable_mx-v6.html) |               1 |                   3 |                  3 |
-|  22 | [IN](unreachable_in-v6.html) |               2 |                   3 |                  3 |
-|  23 | [RO](unreachable_ro-v6.html) |               1 |                   1 |                  1 |
-|  24 | [CA](unreachable_ca-v6.html) |               1 |                   1 |                  1 |
-|  25 | [MM](unreachable_mm-v6.html) |               1 |                   1 |                  1 |
-|  26 | [CH](unreachable_ch-v6.html) |               1 |                   1 |                  1 |
+|  10 | [GB](unreachable_gb-v6.html) |               2 |                   2 |              65537 |
+|  11 | [ID](unreachable_id-v6.html) |               2 |                   2 |              65537 |
+|  12 | [PT](unreachable_pt-v6.html) |               1 |                   1 |              65536 |
+|  13 | [CR](unreachable_cr-v6.html) |               1 |                   1 |              65536 |
+|  14 | [PH](unreachable_ph-v6.html) |               1 |                   4 |              65536 |
+|  15 | [DO](unreachable_do-v6.html) |               1 |                   1 |              65536 |
+|  16 | [PE](unreachable_pe-v6.html) |               1 |                   1 |              32768 |
+|  17 | [AU](unreachable_au-v6.html) |               5 |                   6 |               8203 |
+|  18 | [TR](unreachable_tr-v6.html) |               2 |                  33 |                 33 |
+|  19 | [CA](unreachable_ca-v6.html) |               3 |                   3 |                 33 |
+|  20 | [TW](unreachable_tw-v6.html) |               2 |                  14 |                 14 |
+|  21 | [IN](unreachable_in-v6.html) |               5 |                  14 |                 14 |
+|  22 | [SE](unreachable_se-v6.html) |               1 |                  10 |                 10 |
+|  23 | [AR](unreachable_ar-v6.html) |               1 |                   8 |                  8 |
+|  24 | [NL](unreachable_nl-v6.html) |               2 |                   3 |                  3 |
+|  25 | [MX](unreachable_mx-v6.html) |               1 |                   3 |                  3 |
+|  26 | [CH](unreachable_ch-v6.html) |               1 |                   3 |                  3 |
+|  27 | [CL](unreachable_cl-v6.html) |               2 |                   2 |                  2 |
+|  28 | [MM](unreachable_mm-v6.html) |               1 |                   1 |                  1 |
+|  29 | [LT](unreachable_lt-v6.html) |               1 |                   1 |                  1 |
 
 <div class="datatable-end"></div>

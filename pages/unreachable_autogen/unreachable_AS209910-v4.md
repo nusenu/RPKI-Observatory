@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS209910-v4.html
 ---
 
-Data as of 2019-11-03 00:30:00 UTC
+Data as of 2019-12-13 22:40:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                     | Reason                                                                                                   | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
 |:-----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
-| [185.236.251.0/24](https://stat.ripe.net/185.236.251.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209910&prefix=185.236.251.0/24) | complete   |           49565 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.200.76.0/22](https://stat.ripe.net/185.200.76.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209910&prefix=185.200.76.0/22)  | complete   |           49565 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [185.236.248.0/22](https://stat.ripe.net/185.236.248.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS209910&prefix=185.236.248.0/22) | complete   |           49565 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 
 <div class="datatable-end"></div>

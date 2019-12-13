@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_hk-v6.html
 ---
 
-Data as of 2019-11-03 00:30:00 UTC
+Data as of 2019-12-13 22:40:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                                               |   prefixes |   unreachable /48s |
 |----:|:-----------------------------------------|:-------------------------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS138145](unreachable_AS138145-v6.html) | ADVANCED-AS-AP Advanced Information Company Limited                |          1 |              65536 |
+|   0 | [AS138145](unreachable_AS138145-v6.html) | ADVANCED-AS-AP Advanced Information Company Limited                |          3 |              65538 |
 |   1 | [AS45187](unreachable_AS45187-v6.html)   | RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hong Kong |          1 |                  1 |
 
 <div class="datatable-end"></div>
