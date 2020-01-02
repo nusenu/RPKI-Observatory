@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AfriNIC_RPKI_Root-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -40,11 +40,12 @@ Data as of 2019-12-13 22:40:00 UTC
 |  25 | [41.217.37.0/24](https://stat.ripe.net/41.217.37.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.37.0/24)  | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
 |  26 | [41.217.38.0/24](https://stat.ripe.net/41.217.38.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.38.0/24)  | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
 |  27 | [41.217.39.0/24](https://stat.ripe.net/41.217.39.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.39.0/24)  | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
-|  28 | [154.16.104.0/24](https://stat.ripe.net/154.16.104.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS133398&prefix=154.16.104.0/24)   | complete   | [AS133398](unreachable_AS133398-v4.html) | TELE-AS Tele Asia Limited                   |                  1 |
-|  29 | [154.118.54.0/24](https://stat.ripe.net/154.118.54.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.118.54.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
-|  30 | [154.118.55.0/24](https://stat.ripe.net/154.118.55.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.118.55.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
-|  31 | [154.120.64.0/24](https://stat.ripe.net/154.120.64.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.120.64.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
-|  32 | [154.120.65.0/24](https://stat.ripe.net/154.120.65.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.120.65.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
-|  33 | [169.255.163.0/24](https://stat.ripe.net/169.255.163.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS51110&prefix=169.255.163.0/24)   | complete   | [AS51110](unreachable_AS51110-v4.html)   | IDOMTECHNOLOGIES-AS - IDOM TECHNOLOGIES SAS |                  1 |
+|  28 | [154.16.67.0/24](https://stat.ripe.net/154.16.67.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS40676&prefix=154.16.67.0/24)     | complete   | [AS40676](unreachable_AS40676-v4.html)   | AS40676 - Psychz Networks                   |                  1 |
+|  29 | [154.16.104.0/24](https://stat.ripe.net/154.16.104.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS133398&prefix=154.16.104.0/24)   | complete   | [AS133398](unreachable_AS133398-v4.html) | TELE-AS Tele Asia Limited                   |                  1 |
+|  30 | [154.118.54.0/24](https://stat.ripe.net/154.118.54.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.118.54.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
+|  31 | [154.118.55.0/24](https://stat.ripe.net/154.118.55.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.118.55.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
+|  32 | [154.120.64.0/24](https://stat.ripe.net/154.120.64.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.120.64.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
+|  33 | [154.120.65.0/24](https://stat.ripe.net/154.120.65.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.120.65.0/24) | complete   | [AS37340](unreachable_AS37340-v4.html)   | Spectranet                                  |                  1 |
+|  34 | [169.255.163.0/24](https://stat.ripe.net/169.255.163.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS51110&prefix=169.255.163.0/24)   | complete   | [AS51110](unreachable_AS51110-v4.html)   | IDOMTECHNOLOGIES-AS - IDOM TECHNOLOGIES SAS |                  1 |
 
 <div class="datatable-end"></div>

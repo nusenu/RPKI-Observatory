@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS58224-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-| Prefix                                                   | Reason                                                                                                    | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
-|:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
-| [176.65.224.0/21](https://stat.ripe.net/176.65.224.0/21) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=176.65.224.0/21) | complete   |           58224 |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  8 |
+| Prefix                                                     | Reason                                                                                                  | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
+| [188.215.176.0/20](https://stat.ripe.net/188.215.176.0/20) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS58224&prefix=188.215.176.0/20) | complete   |           49666 |          20 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                 16 |
 
 <div class="datatable-end"></div>

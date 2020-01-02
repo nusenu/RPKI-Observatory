@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS60721-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,6 +14,7 @@ Data as of 2019-12-13 22:40:00 UTC
 |:---------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
 | [45.155.126.0/24](https://stat.ripe.net/45.155.126.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS60721&prefix=45.155.126.0/24) | complete   |           42724 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [45.155.127.0/24](https://stat.ripe.net/45.155.127.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS60721&prefix=45.155.127.0/24) | complete   |           42724 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [193.111.77.0/24](https://stat.ripe.net/193.111.77.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS60721&prefix=193.111.77.0/24) | complete   |          203377 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [193.164.6.0/24](https://stat.ripe.net/193.164.6.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS60721&prefix=193.164.6.0/24)  | complete   |           42724 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

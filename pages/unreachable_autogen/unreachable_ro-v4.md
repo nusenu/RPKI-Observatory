@@ -5,15 +5,17 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ro-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name                    |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:----------------------------------------|-----------:|-------------------:|
-|   0 | [AS39669](unreachable_AS39669-v4.html)   | AVOLO-AS - AVOLO TELECOM SRL            |          1 |                  1 |
-|   1 | [AS203523](unreachable_AS203523-v4.html) | VIRTONO-NETWORKS - Virtono Networks SRL |          1 |                  1 |
-|   2 | [AS8708](unreachable_AS8708-v4.html)     | RCS-RDS - RCS &amp; RDS SA              |          1 |                  1 |
+|   0 | [AS58286](unreachable_AS58286-v4.html)   | ELIT - Electric-IT Business S.R.L.      |          2 |                  4 |
+|   1 | [AS61139](unreachable_AS61139-v4.html)   | TV-TEOMAR-AS - TV TEOMAR SRL            |          1 |                  1 |
+|   2 | [AS39669](unreachable_AS39669-v4.html)   | AVOLO-AS - AVOLO TELECOM SRL            |          1 |                  1 |
+|   3 | [AS203523](unreachable_AS203523-v4.html) | VIRTONO-NETWORKS - Virtono Networks SRL |          1 |                  1 |
+|   4 | [AS8708](unreachable_AS8708-v4.html)     | RCS-RDS - RCS &amp; RDS SA              |          1 |                  1 |
 
 <div class="datatable-end"></div>

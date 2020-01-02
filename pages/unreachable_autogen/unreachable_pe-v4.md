@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_pe-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS64120](unreachable_AS64120-v4.html) |                        |          1 |                  4 |
+|   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
+|   0 | [AS269857](unreachable_AS269857-v4.html) |                        |          2 |                  2 |
 
 <div class="datatable-end"></div>

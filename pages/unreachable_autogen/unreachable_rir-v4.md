@@ -5,17 +5,17 @@ sidebar: unreachable_sidebar
 permalink: unreachable_rir-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Anchor                                           |   affected countries |   affected ASNs |   affected prefixes |   unreachable /24s |
 |:-------------------------------------------------|---------------------:|----------------:|--------------------:|-------------------:|
-| [APNIC](unreachable_APNIC_RPKI_Root-v4.html)     |                   23 |             132 |                 380 |               1672 |
-| [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html)   |                   17 |              60 |                 122 |               1007 |
-| [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html)   |                   36 |             127 |                 359 |                643 |
-| [ARIN](unreachable_ARIN-v4.html)                 |                    7 |              31 |                  55 |                365 |
-| [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                    3 |               3 |                  34 |                 34 |
+| [APNIC](unreachable_APNIC_RPKI_Root-v4.html)     |                   23 |             134 |                 352 |               2614 |
+| [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html)   |                   16 |              59 |                 128 |               1021 |
+| [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html)   |                   34 |             132 |                 317 |               1019 |
+| [ARIN](unreachable_ARIN-v4.html)                 |                    7 |              27 |                  50 |                314 |
+| [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                    4 |               4 |                  35 |                 35 |
 
 <div class="datatable-end"></div>

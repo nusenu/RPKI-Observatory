@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS262186-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,6 +13,7 @@ Data as of 2019-12-13 22:40:00 UTC
 | Prefix                                                   | Reason                                                                                                  | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
 |:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
 | [179.51.96.0/19](https://stat.ripe.net/179.51.96.0/19)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=179.51.96.0/19)  | partial    |           10753 |          19 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                 32 |
+| [45.225.227.0/24](https://stat.ripe.net/45.225.227.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=45.225.227.0/24) | complete   |          265855 |          22 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [152.231.25.0/24](https://stat.ripe.net/152.231.25.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=152.231.25.0/24) | complete   |          266877 |          21 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 | [170.247.2.0/24](https://stat.ripe.net/170.247.2.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS262186&prefix=170.247.2.0/24)  | complete   |          267788 |          24 | [LACNIC](unreachable_LACNIC_RPKI_Root-v4.html) |                  1 |
 

@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS59447-v4.html
 ---
 
-Data as of 2019-12-13 22:40:00 UTC
+Data as of 2020-01-02 23:00:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,7 +14,7 @@ Data as of 2019-12-13 22:40:00 UTC
 |:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
 | [45.84.120.0/22](https://stat.ripe.net/45.84.120.0/22)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=45.84.120.0/22)   | complete   |           43111 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [45.91.108.0/22](https://stat.ripe.net/45.91.108.0/22)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=45.91.108.0/22)   | complete   |           43111 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
-| [45.132.4.0/22](https://stat.ripe.net/45.132.4.0/22)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=45.132.4.0/22)    | complete   |           43111 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [45.132.4.0/22](https://stat.ripe.net/45.132.4.0/22)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=45.132.4.0/22)    | complete   |          197328 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [45.145.156.0/22](https://stat.ripe.net/45.145.156.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=45.145.156.0/22)  | complete   |           43111 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [45.151.12.0/22](https://stat.ripe.net/45.151.12.0/22)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=45.151.12.0/22)   | complete   |           43111 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [62.133.44.0/22](https://stat.ripe.net/62.133.44.0/22)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS59447&prefix=62.133.44.0/22)   | complete   |           43111 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
