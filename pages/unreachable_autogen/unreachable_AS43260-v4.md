@@ -1,0 +1,45 @@
+---
+title: Unreachable Prefixes in AS43260 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS43260-v4.html
+---
+
+Data as of 2020-01-25 23:20:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                   | Reason                                                                                                    | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
+|:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
+| [45.143.10.0/24](https://stat.ripe.net/45.143.10.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.143.10.0/24)  | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [194.36.85.0/24](https://stat.ripe.net/194.36.85.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=194.36.85.0/24)     | complete   |           42724 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [92.118.115.0/24](https://stat.ripe.net/92.118.115.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=92.118.115.0/24) | complete   |           43260 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [92.118.114.0/24](https://stat.ripe.net/92.118.114.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=92.118.114.0/24) | complete   |           43260 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [92.118.113.0/24](https://stat.ripe.net/92.118.113.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=92.118.113.0/24) | complete   |           43260 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [92.118.112.0/24](https://stat.ripe.net/92.118.112.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=92.118.112.0/24) | complete   |           43260 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.155.131.0/24](https://stat.ripe.net/45.155.131.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.155.131.0/24) | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.155.130.0/24](https://stat.ripe.net/45.155.130.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.155.130.0/24) | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.155.129.0/24](https://stat.ripe.net/45.155.129.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.155.129.0/24) | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.155.128.0/24](https://stat.ripe.net/45.155.128.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.155.128.0/24) | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.151.15.0/24](https://stat.ripe.net/45.151.15.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.151.15.0/24)  | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.151.14.0/24](https://stat.ripe.net/45.151.14.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.151.14.0/24)  | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.151.13.0/24](https://stat.ripe.net/45.151.13.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.151.13.0/24)  | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.151.12.0/24](https://stat.ripe.net/45.151.12.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.151.12.0/24)  | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.143.11.0/24](https://stat.ripe.net/45.143.11.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.143.11.0/24)  | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.9.152.0/24](https://stat.ripe.net/45.9.152.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.9.152.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.143.9.0/24](https://stat.ripe.net/45.143.9.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.143.9.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.143.8.0/24](https://stat.ripe.net/45.143.8.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.143.8.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.87.47.0/24](https://stat.ripe.net/45.87.47.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.87.47.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.87.46.0/24](https://stat.ripe.net/45.87.46.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.87.46.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.87.45.0/24](https://stat.ripe.net/45.87.45.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.87.45.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.87.44.0/24](https://stat.ripe.net/45.87.44.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.87.44.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.86.55.0/24](https://stat.ripe.net/45.86.55.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.86.55.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.86.54.0/24](https://stat.ripe.net/45.86.54.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.86.54.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.86.53.0/24](https://stat.ripe.net/45.86.53.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.86.53.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.86.52.0/24](https://stat.ripe.net/45.86.52.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.86.52.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.9.155.0/24](https://stat.ripe.net/45.9.155.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.9.155.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.9.154.0/24](https://stat.ripe.net/45.9.154.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.9.154.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [45.9.153.0/24](https://stat.ripe.net/45.9.153.0/24)     | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS43260&prefix=45.9.153.0/24)   | complete   |           43260 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>
