@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS18013-v4.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -19,11 +19,11 @@ Data as of 2020-01-25 23:20:00 UTC
 | [85.8.164.0/22](https://stat.ripe.net/85.8.164.0/22)       | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=85.8.164.0/22)    | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [91.244.196.0/22](https://stat.ripe.net/91.244.196.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=91.244.196.0/22)  | complete   |          138648 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [95.214.172.0/22](https://stat.ripe.net/95.214.172.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=95.214.172.0/22)  | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
-| [95.214.176.0/22](https://stat.ripe.net/95.214.176.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=95.214.176.0/22)  | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [176.105.228.0/22](https://stat.ripe.net/176.105.228.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=176.105.228.0/22) | complete   |          138648 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [185.177.24.0/22](https://stat.ripe.net/185.177.24.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=185.177.24.0/22)  | complete   |          138648 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [212.90.100.0/22](https://stat.ripe.net/212.90.100.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=212.90.100.0/22)  | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [212.107.28.0/22](https://stat.ripe.net/212.107.28.0/22)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=212.107.28.0/22)  | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
 | [212.115.124.0/22](https://stat.ripe.net/212.115.124.0/22) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=212.115.124.0/22) | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  4 |
+| [95.214.179.0/24](https://stat.ripe.net/95.214.179.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS18013&prefix=95.214.179.0/24)  | complete   |          138648 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

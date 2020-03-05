@@ -5,13 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS205889-v4.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-| Prefix                                                   | Reason                                                                                                  | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
-|:---------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
-| [185.135.71.0/24](https://stat.ripe.net/185.135.71.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS205889&prefix=185.135.71.0/24) | complete   |          203409 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| Prefix                                                     | Reason                                                                                                   | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
+| [185.185.172.0/24](https://stat.ripe.net/185.185.172.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS205889&prefix=185.185.172.0/24) | complete   |          206471 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.185.173.0/24](https://stat.ripe.net/185.185.173.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS205889&prefix=185.185.173.0/24) | complete   |          206471 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [185.185.175.0/24](https://stat.ripe.net/185.185.175.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS205889&prefix=185.185.175.0/24) | complete   |          206471 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

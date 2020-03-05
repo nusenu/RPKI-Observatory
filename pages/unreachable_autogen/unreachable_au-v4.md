@@ -5,18 +5,19 @@ sidebar: unreachable_sidebar
 permalink: unreachable_au-v4.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name                                        |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:------------------------------------------------------------|-----------:|-------------------:|
-|   0 | [AS10113](unreachable_AS10113-v4.html) | EFTEL-AS-AP Eftel Limited.                                  |          2 |                 32 |
-|   1 | [AS31732](unreachable_AS31732-v4.html) | PARSUN-NETWORK-SOLUTIONS - PARSUN NETWORK SOLUTIONS PTY LTD |          4 |                  4 |
-|   2 | [AS10145](unreachable_AS10145-v4.html) | SECUREIP-AP SecureIP                                        |          2 |                  2 |
-|   3 | [AS45887](unreachable_AS45887-v4.html) | GPLHOST-AS-AP GPLHost LLC                                   |          2 |                  2 |
-|   4 | [AS45152](unreachable_AS45152-v4.html) | ZONENETWORKS-AS-AP Zone Networks Pty Ltd                    |          1 |                  1 |
-|   5 | [AS55884](unreachable_AS55884-v4.html) | ORIONVM-AU OrionVM Cloud Platform                           |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name                                   |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-------------------------------------------------------|-----------:|-------------------:|
+|   0 | [AS10113](unreachable_AS10113-v4.html)   | EFTEL-AS-AP Eftel Limited.                             |          2 |                 32 |
+|   1 | [AS133538](unreachable_AS133538-v4.html) | HYPERNODE-AS-AP HYPERNODE PTY. LTD.                    |          2 |                  2 |
+|   2 | [AS45887](unreachable_AS45887-v4.html)   | GPLHOST-AS-AP GPLHost LLC                              |          2 |                  2 |
+|   3 | [AS4826](unreachable_AS4826-v4.html)     | VOCUS-BACKBONE-AS Vocus Connect International Backbone |          1 |                  1 |
+|   4 | [AS1221](unreachable_AS1221-v4.html)     | ASN-TELSTRA Telstra Corporation Ltd                    |          1 |                  1 |
+|   5 | [AS9313](unreachable_AS9313-v4.html)     | ONTHENET-AS Network Technology AUST P/L                |          1 |                  1 |
+|   6 | [AS55884](unreachable_AS55884-v4.html)   | ORIONVM-AU OrionVM Cloud Platform                      |          1 |                  1 |
 
 <div class="datatable-end"></div>

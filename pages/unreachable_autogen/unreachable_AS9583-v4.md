@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS9583-v4.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -19,7 +19,6 @@ Data as of 2020-01-25 23:20:00 UTC
 | [124.30.253.0/24](https://stat.ripe.net/124.30.253.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.253.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [124.30.252.0/24](https://stat.ripe.net/124.30.252.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.252.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [124.30.251.0/24](https://stat.ripe.net/124.30.251.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.251.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
-| [124.30.250.0/24](https://stat.ripe.net/124.30.250.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.250.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [124.30.249.0/24](https://stat.ripe.net/124.30.249.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.249.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [124.30.247.0/24](https://stat.ripe.net/124.30.247.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.247.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 | [124.30.246.0/24](https://stat.ripe.net/124.30.246.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS9583&prefix=124.30.246.0/24) | complete   |            9583 |          16 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |

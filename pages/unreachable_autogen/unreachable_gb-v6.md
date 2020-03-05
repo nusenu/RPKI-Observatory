@@ -5,14 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_gb-v6.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                   |   prefixes |   unreachable /48s |
-|----:|:-----------------------------------------|:---------------------------------------|-----------:|-------------------:|
-|   0 | [AS51055](unreachable_AS51055-v6.html)   | BRIDGEP-AS - Bridge Fibre Limited      |          1 |              65536 |
-|   1 | [AS208328](unreachable_AS208328-v6.html) | AS-MALINDEX - Malindex Network Limited |          1 |                  1 |
+|   # | ASN                                    | (announcing) AS name              |   prefixes |   unreachable /48s |
+|----:|:---------------------------------------|:----------------------------------|-----------:|-------------------:|
+|   0 | [AS51055](unreachable_AS51055-v6.html) | BRIDGEP-AS - Bridge Fibre Limited |          1 |              65536 |
 
 <div class="datatable-end"></div>

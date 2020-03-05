@@ -5,14 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_tw-v6.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                 |   prefixes |   unreachable /48s |
-|----:|:-----------------------------------------|:-------------------------------------|-----------:|-------------------:|
-|   0 | [AS135383](unreachable_AS135383-v6.html) | RFCOLTD-AS-AP Ruifeng Co.            |         12 |                 12 |
-|   1 | [AS131644](unreachable_AS131644-v6.html) | ZENDONGINFO-NET Zhendong Information |          3 |                  3 |
+|   # | ASN                                      | (announcing) AS name                   |   prefixes |   unreachable /48s |
+|----:|:-----------------------------------------|:---------------------------------------|-----------:|-------------------:|
+|   0 | [AS134522](unreachable_AS134522-v6.html) | HOSTINGINSIDE-AS-AP HostingInside LTD. |          5 |                  5 |
+|   1 | [AS139472](unreachable_AS139472-v6.html) | JERRY-AS-AP Jerry Network Limited      |          1 |                  1 |
+|   2 | [AS131644](unreachable_AS131644-v6.html) | ZENDONGINFO-NET Zhendong Information   |          1 |                  1 |
 
 <div class="datatable-end"></div>

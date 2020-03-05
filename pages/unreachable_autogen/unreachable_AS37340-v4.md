@@ -5,18 +5,16 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS37340-v4.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 | Prefix                                                   | Reason                                                                                                    | affected   |   Authorized AS |   MaxLength | Anchor                                           |   unreachable /24s |
 |:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-------------------------------------------------|-------------------:|
-| [41.217.28.0/24](https://stat.ripe.net/41.217.28.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.28.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
+| [41.217.27.0/24](https://stat.ripe.net/41.217.27.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.27.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [154.120.65.0/24](https://stat.ripe.net/154.120.65.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.120.65.0/24) | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [154.120.64.0/24](https://stat.ripe.net/154.120.64.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.120.64.0/24) | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
-| [154.118.55.0/24](https://stat.ripe.net/154.118.55.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.118.55.0/24) | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
-| [154.118.54.0/24](https://stat.ripe.net/154.118.54.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=154.118.54.0/24) | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.39.0/24](https://stat.ripe.net/41.217.39.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.39.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.38.0/24](https://stat.ripe.net/41.217.38.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.38.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.37.0/24](https://stat.ripe.net/41.217.37.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.37.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
@@ -28,8 +26,8 @@ Data as of 2020-01-25 23:20:00 UTC
 | [41.217.31.0/24](https://stat.ripe.net/41.217.31.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.31.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.30.0/24](https://stat.ripe.net/41.217.30.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.30.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.29.0/24](https://stat.ripe.net/41.217.29.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.29.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
+| [41.217.28.0/24](https://stat.ripe.net/41.217.28.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.28.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.12.0/24](https://stat.ripe.net/41.217.12.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.12.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
-| [41.217.27.0/24](https://stat.ripe.net/41.217.27.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.27.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.26.0/24](https://stat.ripe.net/41.217.26.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.26.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.25.0/24](https://stat.ripe.net/41.217.25.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.25.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |
 | [41.217.24.0/24](https://stat.ripe.net/41.217.24.0/24)   | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS37340&prefix=41.217.24.0/24)  | complete   |           37340 |          23 | [AfriNIC](unreachable_AfriNIC_RPKI_Root-v4.html) |                  1 |

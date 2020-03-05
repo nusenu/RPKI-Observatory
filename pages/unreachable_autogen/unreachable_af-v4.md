@@ -5,13 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_af-v4.html
 ---
 
-Data as of 2020-01-25 23:20:00 UTC
+Data as of 2020-03-05 21:15:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name       |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:---------------------------|-----------:|-------------------:|
-|   0 | [AS64081](unreachable_AS64081-v4.html) | STANNET-AS-AP STAN Telecom |          2 |                  2 |
+|   # | ASN                                      | (announcing) AS name                |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:------------------------------------|-----------:|-------------------:|
+|   0 | [AS64081](unreachable_AS64081-v4.html)   | STANNET-AS-AP STAN Telecom          |          2 |                  2 |
+|   1 | [AS132471](unreachable_AS132471-v4.html) | MTNAFGHANISTAN-AS-AP MTNAFGHANISTAN |          1 |                  1 |
+|   2 | [AS134134](unreachable_AS134134-v4.html) | NORTHTELECOM-AF North Telecom       |          1 |                  1 |
 
 <div class="datatable-end"></div>
