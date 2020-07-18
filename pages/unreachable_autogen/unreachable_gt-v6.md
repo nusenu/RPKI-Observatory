@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_gt-v6.html
 ---
 
-Data as of 2020-05-16 15:20:00 UTC
+Data as of 2020-07-18 22:50:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name   |   prefixes |   unreachable /48s |
-|----:|:---------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS14754](unreachable_AS14754-v6.html) | Telgua                 |          1 |               4096 |
+|   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /48s |
+|----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
+|   0 | [AS14754](unreachable_AS14754-v6.html)   | Telgua                 |          1 |               4096 |
+|   1 | [AS269989](unreachable_AS269989-v6.html) | FIBERNET S.A           |          1 |                  8 |
 
 <div class="datatable-end"></div>

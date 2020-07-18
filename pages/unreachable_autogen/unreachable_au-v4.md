@@ -5,16 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_au-v4.html
 ---
 
-Data as of 2020-05-16 15:20:00 UTC
+Data as of 2020-07-18 22:50:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                       |   prefixes |   unreachable /24s |
-|----:|:-----------------------------------------|:-------------------------------------------|-----------:|-------------------:|
-|   0 | [AS45671](unreachable_AS45671-v4.html)   | AS45671-NET-AU Wholesale Services Provider |          6 |                 12 |
-|   1 | [AS17918](unreachable_AS17918-v4.html)   | AC3-AS-AP ac3                              |          5 |                  5 |
-|   2 | [AS135352](unreachable_AS135352-v4.html) | TSGNLCO-AS-AP The Signal Co. Wireless      |          1 |                  1 |
-|   3 | [AS9313](unreachable_AS9313-v4.html)     | ONTHENET-AS Network Technology AUST P/L    |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name                             |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-------------------------------------------------|-----------:|-------------------:|
+|   0 | [AS24021](unreachable_AS24021-v4.html)   | APNICRANDNET-TUI-AU TUI experiment               |          1 |                  2 |
+|   1 | [AS134409](unreachable_AS134409-v4.html) | PUBLICDNS-AS-AP PublicDNS-Global AnyCast Network |          1 |                  1 |
+|   2 | [AS1221](unreachable_AS1221-v4.html)     | ASN-TELSTRA Telstra Corporation Ltd              |          1 |                  1 |
 
 <div class="datatable-end"></div>

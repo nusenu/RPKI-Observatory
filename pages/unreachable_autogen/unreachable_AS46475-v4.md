@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS46475-v4.html
 ---
 
-Data as of 2020-05-16 15:20:00 UTC
+Data as of 2020-07-18 22:50:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -16,9 +16,10 @@ Data as of 2020-05-16 15:20:00 UTC
 | [80.76.33.0/24](https://stat.ripe.net/80.76.33.0/24)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=80.76.33.0/24)    | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [80.76.34.0/24](https://stat.ripe.net/80.76.34.0/24)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=80.76.34.0/24)    | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [80.76.35.0/24](https://stat.ripe.net/80.76.35.0/24)       | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=80.76.35.0/24)    | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| [103.112.0.0/24](https://stat.ripe.net/103.112.0.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=103.112.0.0/24)      | complete   |           61317 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html)   |                  1 |
+| [103.112.1.0/24](https://stat.ripe.net/103.112.1.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=103.112.1.0/24)      | complete   |           61317 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html)   |                  1 |
+| [103.112.2.0/24](https://stat.ripe.net/103.112.2.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=103.112.2.0/24)      | complete   |           61317 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html)   |                  1 |
+| [103.112.3.0/24](https://stat.ripe.net/103.112.3.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=103.112.3.0/24)      | complete   |           61317 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html)   |                  1 |
 | [185.153.164.0/24](https://stat.ripe.net/185.153.164.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=185.153.164.0/24) | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [185.153.165.0/24](https://stat.ripe.net/185.153.165.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=185.153.165.0/24) | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [185.153.166.0/24](https://stat.ripe.net/185.153.166.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=185.153.166.0/24) | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [185.153.167.0/24](https://stat.ripe.net/185.153.167.0/24) | [INVALID LENGTH](https://rpki-validator.ripe.net/announcement-preview?asn=AS46475&prefix=185.153.167.0/24) | complete   |           46475 |          22 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

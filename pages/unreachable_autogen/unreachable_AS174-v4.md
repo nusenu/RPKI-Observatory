@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS174-v4.html
 ---
 
-Data as of 2020-05-16 15:20:00 UTC
+Data as of 2020-07-18 22:50:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-| Prefix                                                 | Reason                                                                                              | affected   |   Authorized AS |   MaxLength | Anchor                           |   unreachable /24s |
-|:-------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:---------------------------------|-------------------:|
-| [23.162.96.0/24](https://stat.ripe.net/23.162.96.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS174&prefix=23.162.96.0/24) | complete   |           30058 |           0 | [ARIN](unreachable_ARIN-v4.html) |                  1 |
+| Prefix                                                     | Reason                                                                                                | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-----------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
+| [195.216.190.0/24](https://stat.ripe.net/195.216.190.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS174&prefix=195.216.190.0/24) | complete   |           31863 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

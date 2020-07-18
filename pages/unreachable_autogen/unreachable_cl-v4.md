@@ -5,17 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cl-v4.html
 ---
 
-Data as of 2020-05-16 15:20:00 UTC
+Data as of 2020-07-18 22:50:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name                |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:------------------------------------|-----------:|-------------------:|
-|   0 | [AS6535](unreachable_AS6535-v4.html)   | Telmex Servicios Empresariales S.A. |          1 |                256 |
-|   1 | [AS27995](unreachable_AS27995-v4.html) | CLARO CHILE S.A.                    |          4 |                 40 |
-|   2 | [AS27836](unreachable_AS27836-v4.html) | Smartcom                            |          1 |                  8 |
-|   3 | [AS6471](unreachable_AS6471-v4.html)   | ENTEL CHILE S.A.                    |          2 |                  2 |
-|   4 | [AS27766](unreachable_AS27766-v4.html) | LAN CHILE Lineas Aereas de Chile    |          1 |                  1 |
+|   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
+|   0 | [AS27995](unreachable_AS27995-v4.html)   | CLARO CHILE S.A.       |          1 |                256 |
+|   1 | [AS264827](unreachable_AS264827-v4.html) | WIRCOM S.P.A.          |          1 |                  4 |
 
 <div class="datatable-end"></div>
