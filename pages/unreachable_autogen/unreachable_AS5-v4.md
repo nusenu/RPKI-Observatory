@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS5-v4.html
 ---
 
-Data as of 2020-07-18 22:50:00 UTC
+Data as of 2020-09-18 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -13,5 +13,6 @@ Data as of 2020-07-18 22:50:00 UTC
 | Prefix                                                   | Reason                                                                                             | affected   |   Authorized AS |   MaxLength | Anchor                                       |   unreachable /24s |
 |:---------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:---------------------------------------------|-------------------:|
 | [103.144.51.0/24](https://stat.ripe.net/103.144.51.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS5&prefix=103.144.51.0/24) | complete   |          135684 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [114.69.224.0/24](https://stat.ripe.net/114.69.224.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS5&prefix=114.69.224.0/24) | complete   |           18002 |          23 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>

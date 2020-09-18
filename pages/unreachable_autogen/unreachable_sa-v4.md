@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_sa-v4.html
 ---
 
-Data as of 2020-07-18 22:50:00 UTC
+Data as of 2020-09-18 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                    | (announcing) AS name                |   prefixes |   unreachable /24s |
 |----:|:---------------------------------------|:------------------------------------|-----------:|-------------------:|
-|   0 | [AS43775](unreachable_AS43775-v4.html) | DSP-AS - Digital Solutions Provider |          1 |                  1 |
+|   0 | [AS43775](unreachable_AS43775-v4.html) | DSP-AS - Digital Solutions Provider |          1 |                 16 |
 
 <div class="datatable-end"></div>

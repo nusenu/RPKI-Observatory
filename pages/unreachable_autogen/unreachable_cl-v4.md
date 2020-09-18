@@ -5,14 +5,15 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cl-v4.html
 ---
 
-Data as of 2020-07-18 22:50:00 UTC
+Data as of 2020-09-18 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS27995](unreachable_AS27995-v4.html)   | CLARO CHILE S.A.       |          1 |                256 |
-|   1 | [AS264827](unreachable_AS264827-v4.html) | WIRCOM S.P.A.          |          1 |                  4 |
+|   0 | [AS27836](unreachable_AS27836-v4.html)   | Smartcom               |          1 |                 64 |
+|   1 | [AS264780](unreachable_AS264780-v4.html) | HomeNet LTDA           |          4 |                  4 |
+|   2 | [AS271783](unreachable_AS271783-v4.html) | GRUPO ULLOA CLIVIO SPA |          1 |                  1 |
 
 <div class="datatable-end"></div>

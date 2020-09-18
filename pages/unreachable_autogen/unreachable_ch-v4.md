@@ -5,13 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_ch-v4.html
 ---
 
-Data as of 2020-07-18 22:50:00 UTC
+Data as of 2020-09-18 11:20:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                    | (announcing) AS name         |   prefixes |   unreachable /24s |
-|----:|:---------------------------------------|:-----------------------------|-----------:|-------------------:|
-|   0 | [AS24951](unreachable_AS24951-v4.html) | EVERYWARE-NET - EveryWare AG |          2 |                  8 |
+|   # | ASN                                      | (announcing) AS name         |   prefixes |   unreachable /24s |
+|----:|:-----------------------------------------|:-----------------------------|-----------:|-------------------:|
+|   0 | [AS24951](unreachable_AS24951-v4.html)   | EVERYWARE-NET - EveryWare AG |          2 |                  8 |
+|   1 | [AS207143](unreachable_AS207143-v4.html) | HOSTTECH-AS - hosttech GmbH  |          1 |                  1 |
 
 <div class="datatable-end"></div>
