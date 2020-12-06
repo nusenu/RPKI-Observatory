@@ -5,13 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_sg-v6.html
 ---
 
-Data as of 2020-10-16 12:00:00 UTC
+Data as of 2020-12-06 15:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-|   # | ASN                                      | (announcing) AS name                       |   prefixes |   unreachable /48s |
-|----:|:-----------------------------------------|:-------------------------------------------|-----------:|-------------------:|
-|   0 | [AS133535](unreachable_AS133535-v6.html) | ALAGASNETWORK-AS-AP PRIMABANANEN PTE. LTD. |          1 |                  1 |
+|   # | ASN                                    | (announcing) AS name                           |   prefixes |   unreachable /48s |
+|----:|:---------------------------------------|:-----------------------------------------------|-----------:|-------------------:|
+|   0 | [AS38001](unreachable_AS38001-v6.html) | NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd |          1 |                 16 |
 
 <div class="datatable-end"></div>

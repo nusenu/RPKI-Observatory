@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_eu-v4.html
 ---
 
-Data as of 2020-10-16 12:00:00 UTC
+Data as of 2020-12-06 15:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -14,5 +14,6 @@ Data as of 2020-10-16 12:00:00 UTC
 |----:|:---------------------------------------|:----------------------------------------------------------------------------|-----------:|-------------------:|
 |   0 | [AS12654](unreachable_AS12654-v4.html) | RIPE-NCC-RIS-AS - Reseaux IP Europeens Network Coordination Centre RIPE NCC |          1 |                  1 |
 |   1 | [AS2094](unreachable_AS2094-v4.html)   | FR-TELECOM-MANAGEMENT-SUDPARIS - Telecom &amp; Management Sud Paris         |          1 |                  1 |
+|   2 | [AS47285](unreachable_AS47285-v4.html) | PTP - Patron Technology Persia Ltd.                                         |          1 |                  1 |
 
 <div class="datatable-end"></div>

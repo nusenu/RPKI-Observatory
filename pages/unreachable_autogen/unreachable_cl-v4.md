@@ -5,14 +5,14 @@ sidebar: unreachable_sidebar
 permalink: unreachable_cl-v4.html
 ---
 
-Data as of 2020-10-16 12:00:00 UTC
+Data as of 2020-12-06 15:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
 |   # | ASN                                      | (announcing) AS name   |   prefixes |   unreachable /24s |
 |----:|:-----------------------------------------|:-----------------------|-----------:|-------------------:|
-|   0 | [AS27836](unreachable_AS27836-v4.html)   | Smartcom               |          1 |                 64 |
-|   1 | [AS264780](unreachable_AS264780-v4.html) | HomeNet LTDA           |          4 |                  4 |
+|   0 | [AS264780](unreachable_AS264780-v4.html) | HomeNet LTDA           |          4 |                  4 |
+|   1 | [AS27651](unreachable_AS27651-v4.html)   | ENTEL CHILE S.A.       |          3 |                  3 |
 
 <div class="datatable-end"></div>

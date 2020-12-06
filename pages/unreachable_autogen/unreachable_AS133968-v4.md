@@ -1,0 +1,20 @@
+---
+title: Unreachable Prefixes in AS133968 (IPv4)
+datatable: true
+sidebar: unreachable_sidebar
+permalink: unreachable_AS133968-v4.html
+---
+
+Data as of 2020-12-06 15:35:00 UTC
+
+
+<div class="datatable-begin"></div>
+
+| Prefix                                                     | Reason                                                                                                   | affected   |   Authorized AS |   MaxLength | Anchor                                       |   unreachable /24s |
+|:-----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:---------------------------------------------|-------------------:|
+| [103.157.70.0/24](https://stat.ripe.net/103.157.70.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS133968&prefix=103.157.70.0/24)  | complete   |          134313 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.157.71.0/24](https://stat.ripe.net/103.157.71.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS133968&prefix=103.157.71.0/24)  | complete   |          134313 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.158.244.0/24](https://stat.ripe.net/103.158.244.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS133968&prefix=103.158.244.0/24) | complete   |          141277 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+| [103.158.245.0/24](https://stat.ripe.net/103.158.245.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS133968&prefix=103.158.245.0/24) | complete   |          141277 |          24 | [APNIC](unreachable_APNIC_RPKI_Root-v4.html) |                  1 |
+
+<div class="datatable-end"></div>

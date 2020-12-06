@@ -5,15 +5,13 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS35913-v4.html
 ---
 
-Data as of 2020-10-16 12:00:00 UTC
+Data as of 2020-12-06 15:35:00 UTC
 
 
 <div class="datatable-begin"></div>
 
-| Prefix                                                     | Reason                                                                                                  | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
-|:-----------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
-| [212.60.16.0/23](https://stat.ripe.net/212.60.16.0/23)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS35913&prefix=212.60.16.0/23)   | complete   |          397403 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
-| [79.143.61.0/24](https://stat.ripe.net/79.143.61.0/24)     | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS35913&prefix=79.143.61.0/24)   | complete   |          134705 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [217.197.170.0/24](https://stat.ripe.net/217.197.170.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS35913&prefix=217.197.170.0/24) | complete   |          395092 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
+| Prefix                                                 | Reason                                                                                                | affected   |   Authorized AS |   MaxLength | Anchor                                         |   unreachable /24s |
+|:-------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-----------|----------------:|------------:|:-----------------------------------------------|-------------------:|
+| [212.60.16.0/23](https://stat.ripe.net/212.60.16.0/23) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS35913&prefix=212.60.16.0/23) | complete   |          397403 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  2 |
 
 <div class="datatable-end"></div>

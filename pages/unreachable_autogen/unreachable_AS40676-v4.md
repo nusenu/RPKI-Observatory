@@ -5,7 +5,7 @@ sidebar: unreachable_sidebar
 permalink: unreachable_AS40676-v4.html
 ---
 
-Data as of 2020-10-16 12:00:00 UTC
+Data as of 2020-12-06 15:35:00 UTC
 
 
 <div class="datatable-begin"></div>
@@ -16,6 +16,5 @@ Data as of 2020-10-16 12:00:00 UTC
 | [45.156.65.0/24](https://stat.ripe.net/45.156.65.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS40676&prefix=45.156.65.0/24) | complete   |            9009 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [45.156.66.0/24](https://stat.ripe.net/45.156.66.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS40676&prefix=45.156.66.0/24) | complete   |            9009 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 | [45.156.67.0/24](https://stat.ripe.net/45.156.67.0/24) | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS40676&prefix=45.156.67.0/24) | complete   |            9009 |          23 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
-| [80.76.44.0/24](https://stat.ripe.net/80.76.44.0/24)   | [INVALID ASN](https://rpki-validator.ripe.net/announcement-preview?asn=AS40676&prefix=80.76.44.0/24)  | complete   |           44774 |          24 | [RIPE](unreachable_RIPE_NCC_RPKI_Root-v4.html) |                  1 |
 
 <div class="datatable-end"></div>
